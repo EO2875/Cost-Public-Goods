@@ -1,0 +1,2314 @@
+Outcome,OutcomeCategory,Model,Stat,Result
+PublicGood,EndogPublicGoods,W4,beta,      0.25
+PublicGood,EndogPublicGoods,W4,tstat,      8.28
+PublicGood,EndogPublicGoods,W4,AIC, -24833.42
+PublicGood,EndogPublicGoods,W4,loglike,  12480.14
+PublicGood,EndogPublicGoods,l_pwd_a,beta,      0.01
+PublicGood,EndogPublicGoods,l_pwd_a,tstat,      2.01
+PublicGood,EndogPublicGoods,l_pwd_a,AIC, -15363.80
+PublicGood,EndogPublicGoods,l_pwd_a,loglike,   7705.06
+PublicGood,EndogPublicGoods,ln_pwd_g,beta,      0.12
+PublicGood,EndogPublicGoods,ln_pwd_g,tstat,      1.15
+PublicGood,EndogPublicGoods,ln_pwd_g,AIC, -15356.79
+PublicGood,EndogPublicGoods,ln_pwd_g,loglike,   7701.56
+PublicGood,EndogPublicGoods,ln_pwd_m,beta,      0.11
+PublicGood,EndogPublicGoods,ln_pwd_m,tstat,      1.66
+PublicGood,EndogPublicGoods,ln_pwd_m,AIC, -15365.98
+PublicGood,EndogPublicGoods,ln_pwd_m,loglike,   7706.15
+PublicGood,EndogPublicGoods,wb_urbpop,beta,      0.00
+PublicGood,EndogPublicGoods,wb_urbpop,tstat,      2.63
+PublicGood,EndogPublicGoods,wb_urbpop,AIC, -22971.01
+PublicGood,EndogPublicGoods,wb_urbpop,loglike,  11548.94
+PublicGood,EndogPublicGoods,l_res_norm,beta,     -0.19
+PublicGood,EndogPublicGoods,l_res_norm,tstat,     -1.41
+PublicGood,EndogPublicGoods,l_res_norm,AIC, -23465.02
+PublicGood,EndogPublicGoods,l_res_norm,loglike,  11795.97
+PublicGood,EndogPublicGoods,p_res_norm,beta,      0.06
+PublicGood,EndogPublicGoods,p_res_norm,tstat,      1.18
+PublicGood,EndogPublicGoods,p_res_norm,AIC, -23291.40
+PublicGood,EndogPublicGoods,p_res_norm,loglike,  11709.16
+PublicGood,EndogPublicGoods,r_res_norm,beta,     -0.08
+PublicGood,EndogPublicGoods,r_res_norm,tstat,     -1.05
+PublicGood,EndogPublicGoods,r_res_norm,AIC, -23283.43
+PublicGood,EndogPublicGoods,r_res_norm,loglike,  11705.17
+PublicGood,EndogPublicGoods,g_res_norm,beta,      0.12
+PublicGood,EndogPublicGoods,g_res_norm,tstat,      1.70
+PublicGood,EndogPublicGoods,g_res_norm,AIC, -23316.23
+PublicGood,EndogPublicGoods,g_res_norm,loglike,  11721.57
+PublicGood,EndogPublicGoods,W4+l_pwd_a,beta,      0.12
+PublicGood,EndogPublicGoods,W4+l_pwd_a,tstat,      1.70
+PublicGood,EndogPublicGoods,W4+l_pwd_a,AIC, -15649.93
+PublicGood,EndogPublicGoods,W4+l_pwd_a,loglike,   7849.14
+PublicGood,EndogPublicGoods,W4+ln_pwd_g,beta,      0.12
+PublicGood,EndogPublicGoods,W4+ln_pwd_g,tstat,      1.70
+PublicGood,EndogPublicGoods,W4+ln_pwd_g,AIC, -15639.97
+PublicGood,EndogPublicGoods,W4+ln_pwd_g,loglike,   7844.17
+PublicGood,EndogPublicGoods,W4+ln_pwd_m,beta,      0.12
+PublicGood,EndogPublicGoods,W4+ln_pwd_m,tstat,      1.70
+PublicGood,EndogPublicGoods,W4+ln_pwd_m,AIC, -15645.82
+PublicGood,EndogPublicGoods,W4+ln_pwd_m,loglike,   7847.09
+PublicGood,EndogPublicGoods,W4+wb_urbpop,beta,      0.12
+PublicGood,EndogPublicGoods,W4+wb_urbpop,tstat,      1.70
+PublicGood,EndogPublicGoods,W4+wb_urbpop,AIC, -24625.01
+PublicGood,EndogPublicGoods,W4+wb_urbpop,loglike,  12376.95
+PublicGood,EndogPublicGoods,W4+l_res_norm,beta,      0.12
+PublicGood,EndogPublicGoods,W4+l_res_norm,tstat,      1.70
+PublicGood,EndogPublicGoods,W4+l_res_norm,AIC, -25233.46
+PublicGood,EndogPublicGoods,W4+l_res_norm,loglike,  12681.20
+PublicGood,EndogPublicGoods,W4+p_res_norm,beta,      0.12
+PublicGood,EndogPublicGoods,W4+p_res_norm,tstat,      1.70
+PublicGood,EndogPublicGoods,W4+p_res_norm,AIC, -25089.00
+PublicGood,EndogPublicGoods,W4+p_res_norm,loglike,  12608.97
+PublicGood,EndogPublicGoods,W4+r_res_norm,beta,      0.12
+PublicGood,EndogPublicGoods,W4+r_res_norm,tstat,      1.70
+PublicGood,EndogPublicGoods,W4+r_res_norm,AIC, -25098.50
+PublicGood,EndogPublicGoods,W4+r_res_norm,loglike,  12613.72
+PublicGood,EndogPublicGoods,W4+g_res_norm,beta,      0.12
+PublicGood,EndogPublicGoods,W4+g_res_norm,tstat,      1.70
+PublicGood,EndogPublicGoods,W4+g_res_norm,AIC, -25135.02
+PublicGood,EndogPublicGoods,W4+g_res_norm,loglike,  12631.98
+GoodsRatio,EndogPublicGoods,W4,beta,      0.11
+GoodsRatio,EndogPublicGoods,W4,tstat,      4.30
+GoodsRatio,EndogPublicGoods,W4,AIC, -29522.89
+GoodsRatio,EndogPublicGoods,W4,loglike,  14824.87
+GoodsRatio,EndogPublicGoods,l_pwd_a,beta,      0.00
+GoodsRatio,EndogPublicGoods,l_pwd_a,tstat,      0.68
+GoodsRatio,EndogPublicGoods,l_pwd_a,AIC, -17017.94
+GoodsRatio,EndogPublicGoods,l_pwd_a,loglike,   8532.14
+GoodsRatio,EndogPublicGoods,ln_pwd_g,beta,      0.02
+GoodsRatio,EndogPublicGoods,ln_pwd_g,tstat,      0.21
+GoodsRatio,EndogPublicGoods,ln_pwd_g,AIC, -17015.01
+GoodsRatio,EndogPublicGoods,ln_pwd_g,loglike,   8530.67
+GoodsRatio,EndogPublicGoods,ln_pwd_m,beta,      0.04
+GoodsRatio,EndogPublicGoods,ln_pwd_m,tstat,      0.60
+GoodsRatio,EndogPublicGoods,ln_pwd_m,AIC, -17018.19
+GoodsRatio,EndogPublicGoods,ln_pwd_m,loglike,   8532.26
+GoodsRatio,EndogPublicGoods,wb_urbpop,beta,      0.00
+GoodsRatio,EndogPublicGoods,wb_urbpop,tstat,      1.83
+GoodsRatio,EndogPublicGoods,wb_urbpop,AIC, -28656.73
+GoodsRatio,EndogPublicGoods,wb_urbpop,loglike,  14391.80
+GoodsRatio,EndogPublicGoods,l_res_norm,beta,     -0.08
+GoodsRatio,EndogPublicGoods,l_res_norm,tstat,     -0.91
+GoodsRatio,EndogPublicGoods,l_res_norm,AIC, -28986.69
+GoodsRatio,EndogPublicGoods,l_res_norm,loglike,  14556.80
+GoodsRatio,EndogPublicGoods,p_res_norm,beta,      0.08
+GoodsRatio,EndogPublicGoods,p_res_norm,tstat,      2.33
+GoodsRatio,EndogPublicGoods,p_res_norm,AIC, -29050.60
+GoodsRatio,EndogPublicGoods,p_res_norm,loglike,  14588.76
+GoodsRatio,EndogPublicGoods,r_res_norm,beta,     -0.08
+GoodsRatio,EndogPublicGoods,r_res_norm,tstat,     -1.41
+GoodsRatio,EndogPublicGoods,r_res_norm,AIC, -28970.02
+GoodsRatio,EndogPublicGoods,r_res_norm,loglike,  14548.46
+GoodsRatio,EndogPublicGoods,g_res_norm,beta,      0.04
+GoodsRatio,EndogPublicGoods,g_res_norm,tstat,      0.79
+GoodsRatio,EndogPublicGoods,g_res_norm,AIC, -28930.58
+GoodsRatio,EndogPublicGoods,g_res_norm,loglike,  14528.75
+GoodsRatio,EndogPublicGoods,W4+l_pwd_a,beta,      0.04
+GoodsRatio,EndogPublicGoods,W4+l_pwd_a,tstat,      0.79
+GoodsRatio,EndogPublicGoods,W4+l_pwd_a,AIC, -17391.53
+GoodsRatio,EndogPublicGoods,W4+l_pwd_a,loglike,   8719.94
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_g,beta,      0.04
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_g,tstat,      0.79
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_g,AIC, -17388.18
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_g,loglike,   8718.27
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_m,beta,      0.04
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_m,tstat,      0.79
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_m,AIC, -17388.97
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_m,loglike,   8718.66
+GoodsRatio,EndogPublicGoods,W4+wb_urbpop,beta,      0.04
+GoodsRatio,EndogPublicGoods,W4+wb_urbpop,tstat,      0.79
+GoodsRatio,EndogPublicGoods,W4+wb_urbpop,AIC, -29204.46
+GoodsRatio,EndogPublicGoods,W4+wb_urbpop,loglike,  14666.68
+GoodsRatio,EndogPublicGoods,W4+l_res_norm,beta,      0.04
+GoodsRatio,EndogPublicGoods,W4+l_res_norm,tstat,      0.79
+GoodsRatio,EndogPublicGoods,W4+l_res_norm,AIC, -29626.32
+GoodsRatio,EndogPublicGoods,W4+l_res_norm,loglike,  14877.63
+GoodsRatio,EndogPublicGoods,W4+p_res_norm,beta,      0.04
+GoodsRatio,EndogPublicGoods,W4+p_res_norm,tstat,      0.79
+GoodsRatio,EndogPublicGoods,W4+p_res_norm,AIC, -29667.09
+GoodsRatio,EndogPublicGoods,W4+p_res_norm,loglike,  14898.02
+GoodsRatio,EndogPublicGoods,W4+r_res_norm,beta,      0.04
+GoodsRatio,EndogPublicGoods,W4+r_res_norm,tstat,      0.79
+GoodsRatio,EndogPublicGoods,W4+r_res_norm,AIC, -29622.79
+GoodsRatio,EndogPublicGoods,W4+r_res_norm,loglike,  14875.86
+GoodsRatio,EndogPublicGoods,W4+g_res_norm,beta,      0.04
+GoodsRatio,EndogPublicGoods,W4+g_res_norm,tstat,      0.79
+GoodsRatio,EndogPublicGoods,W4+g_res_norm,AIC, -29593.72
+GoodsRatio,EndogPublicGoods,W4+g_res_norm,loglike,  14861.33
+PrivateorPublicGoods,EndogPublicGoods,W4,beta,      0.98
+PrivateorPublicGoods,EndogPublicGoods,W4,tstat,      2.98
+PrivateorPublicGoods,EndogPublicGoods,W4,AIC,  17849.42
+PrivateorPublicGoods,EndogPublicGoods,W4,loglike,  -8861.28
+PrivateorPublicGoods,EndogPublicGoods,l_pwd_a,beta,     -0.04
+PrivateorPublicGoods,EndogPublicGoods,l_pwd_a,tstat,     -0.41
+PrivateorPublicGoods,EndogPublicGoods,l_pwd_a,AIC,   2420.35
+PrivateorPublicGoods,EndogPublicGoods,l_pwd_a,loglike,  -1187.01
+PrivateorPublicGoods,EndogPublicGoods,ln_pwd_g,beta,     -1.57
+PrivateorPublicGoods,EndogPublicGoods,ln_pwd_g,tstat,     -0.94
+PrivateorPublicGoods,EndogPublicGoods,ln_pwd_g,AIC,   2412.98
+PrivateorPublicGoods,EndogPublicGoods,ln_pwd_g,loglike,  -1183.33
+PrivateorPublicGoods,EndogPublicGoods,ln_pwd_m,beta,     -0.86
+PrivateorPublicGoods,EndogPublicGoods,ln_pwd_m,tstat,     -0.78
+PrivateorPublicGoods,EndogPublicGoods,ln_pwd_m,AIC,   2415.68
+PrivateorPublicGoods,EndogPublicGoods,ln_pwd_m,loglike,  -1184.68
+PrivateorPublicGoods,EndogPublicGoods,wb_urbpop,beta,      0.00
+PrivateorPublicGoods,EndogPublicGoods,wb_urbpop,tstat,      0.56
+PrivateorPublicGoods,EndogPublicGoods,wb_urbpop,AIC,  17677.55
+PrivateorPublicGoods,EndogPublicGoods,wb_urbpop,loglike,  -8775.34
+PrivateorPublicGoods,EndogPublicGoods,l_res_norm,beta,     -1.23
+PrivateorPublicGoods,EndogPublicGoods,l_res_norm,tstat,     -1.70
+PrivateorPublicGoods,EndogPublicGoods,l_res_norm,AIC,  15713.55
+PrivateorPublicGoods,EndogPublicGoods,l_res_norm,loglike,  -7793.32
+PrivateorPublicGoods,EndogPublicGoods,p_res_norm,beta,      0.29
+PrivateorPublicGoods,EndogPublicGoods,p_res_norm,tstat,      0.79
+PrivateorPublicGoods,EndogPublicGoods,p_res_norm,AIC,  15817.62
+PrivateorPublicGoods,EndogPublicGoods,p_res_norm,loglike,  -7845.36
+PrivateorPublicGoods,EndogPublicGoods,r_res_norm,beta,     -0.18
+PrivateorPublicGoods,EndogPublicGoods,r_res_norm,tstat,     -0.33
+PrivateorPublicGoods,EndogPublicGoods,r_res_norm,AIC,  15828.43
+PrivateorPublicGoods,EndogPublicGoods,r_res_norm,loglike,  -7850.76
+PrivateorPublicGoods,EndogPublicGoods,g_res_norm,beta,      0.39
+PrivateorPublicGoods,EndogPublicGoods,g_res_norm,tstat,      0.59
+PrivateorPublicGoods,EndogPublicGoods,g_res_norm,AIC,  15821.73
+PrivateorPublicGoods,EndogPublicGoods,g_res_norm,loglike,  -7847.41
+PrivateorPublicGoods,EndogPublicGoods,W4+l_pwd_a,beta,      0.39
+PrivateorPublicGoods,EndogPublicGoods,W4+l_pwd_a,tstat,      0.59
+PrivateorPublicGoods,EndogPublicGoods,W4+l_pwd_a,AIC,   1973.28
+PrivateorPublicGoods,EndogPublicGoods,W4+l_pwd_a,loglike,   -962.46
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_g,beta,      0.39
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_g,tstat,      0.59
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_g,AIC,   1959.45
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_g,loglike,   -955.55
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_m,beta,      0.39
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_m,tstat,      0.59
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_m,AIC,   1960.37
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_m,loglike,   -956.00
+PrivateorPublicGoods,EndogPublicGoods,W4+wb_urbpop,beta,      0.39
+PrivateorPublicGoods,EndogPublicGoods,W4+wb_urbpop,tstat,      0.59
+PrivateorPublicGoods,EndogPublicGoods,W4+wb_urbpop,AIC,  17371.26
+PrivateorPublicGoods,EndogPublicGoods,W4+wb_urbpop,loglike,  -8621.18
+PrivateorPublicGoods,EndogPublicGoods,W4+l_res_norm,beta,      0.39
+PrivateorPublicGoods,EndogPublicGoods,W4+l_res_norm,tstat,      0.59
+PrivateorPublicGoods,EndogPublicGoods,W4+l_res_norm,AIC,  15415.31
+PrivateorPublicGoods,EndogPublicGoods,W4+l_res_norm,loglike,  -7643.19
+PrivateorPublicGoods,EndogPublicGoods,W4+p_res_norm,beta,      0.39
+PrivateorPublicGoods,EndogPublicGoods,W4+p_res_norm,tstat,      0.59
+PrivateorPublicGoods,EndogPublicGoods,W4+p_res_norm,AIC,  15501.43
+PrivateorPublicGoods,EndogPublicGoods,W4+p_res_norm,loglike,  -7686.25
+PrivateorPublicGoods,EndogPublicGoods,W4+r_res_norm,beta,      0.39
+PrivateorPublicGoods,EndogPublicGoods,W4+r_res_norm,tstat,      0.59
+PrivateorPublicGoods,EndogPublicGoods,W4+r_res_norm,AIC,  15503.62
+PrivateorPublicGoods,EndogPublicGoods,W4+r_res_norm,loglike,  -7687.34
+PrivateorPublicGoods,EndogPublicGoods,W4+g_res_norm,beta,      0.39
+PrivateorPublicGoods,EndogPublicGoods,W4+g_res_norm,tstat,      0.59
+PrivateorPublicGoods,EndogPublicGoods,W4+g_res_norm,AIC,  15498.71
+PrivateorPublicGoods,EndogPublicGoods,W4+g_res_norm,loglike,  -7684.89
+EliteWantCommonGood,EndogPublicGoods,W4,beta,      1.90
+EliteWantCommonGood,EndogPublicGoods,W4,tstat,      6.52
+EliteWantCommonGood,EndogPublicGoods,W4,AIC,  16922.68
+EliteWantCommonGood,EndogPublicGoods,W4,loglike,  -8397.91
+EliteWantCommonGood,EndogPublicGoods,l_pwd_a,beta,     -0.08
+EliteWantCommonGood,EndogPublicGoods,l_pwd_a,tstat,     -0.76
+EliteWantCommonGood,EndogPublicGoods,l_pwd_a,AIC,   2778.80
+EliteWantCommonGood,EndogPublicGoods,l_pwd_a,loglike,  -1366.24
+EliteWantCommonGood,EndogPublicGoods,ln_pwd_g,beta,     -0.96
+EliteWantCommonGood,EndogPublicGoods,ln_pwd_g,tstat,     -0.63
+EliteWantCommonGood,EndogPublicGoods,ln_pwd_g,AIC,   2778.94
+EliteWantCommonGood,EndogPublicGoods,ln_pwd_g,loglike,  -1366.31
+EliteWantCommonGood,EndogPublicGoods,ln_pwd_m,beta,      0.18
+EliteWantCommonGood,EndogPublicGoods,ln_pwd_m,tstat,      0.17
+EliteWantCommonGood,EndogPublicGoods,ln_pwd_m,AIC,   2781.51
+EliteWantCommonGood,EndogPublicGoods,ln_pwd_m,loglike,  -1367.59
+EliteWantCommonGood,EndogPublicGoods,wb_urbpop,beta,      0.01
+EliteWantCommonGood,EndogPublicGoods,wb_urbpop,tstat,      2.23
+EliteWantCommonGood,EndogPublicGoods,wb_urbpop,AIC,  17592.44
+EliteWantCommonGood,EndogPublicGoods,wb_urbpop,loglike,  -8732.79
+EliteWantCommonGood,EndogPublicGoods,l_res_norm,beta,     -0.52
+EliteWantCommonGood,EndogPublicGoods,l_res_norm,tstat,     -0.94
+EliteWantCommonGood,EndogPublicGoods,l_res_norm,AIC,  15140.54
+EliteWantCommonGood,EndogPublicGoods,l_res_norm,loglike,  -7506.81
+EliteWantCommonGood,EndogPublicGoods,p_res_norm,beta,      0.75
+EliteWantCommonGood,EndogPublicGoods,p_res_norm,tstat,      2.29
+EliteWantCommonGood,EndogPublicGoods,p_res_norm,AIC,  15068.30
+EliteWantCommonGood,EndogPublicGoods,p_res_norm,loglike,  -7470.69
+EliteWantCommonGood,EndogPublicGoods,r_res_norm,beta,     -1.38
+EliteWantCommonGood,EndogPublicGoods,r_res_norm,tstat,     -3.60
+EliteWantCommonGood,EndogPublicGoods,r_res_norm,AIC,  15049.36
+EliteWantCommonGood,EndogPublicGoods,r_res_norm,loglike,  -7461.23
+EliteWantCommonGood,EndogPublicGoods,g_res_norm,beta,     -0.47
+EliteWantCommonGood,EndogPublicGoods,g_res_norm,tstat,     -0.57
+EliteWantCommonGood,EndogPublicGoods,g_res_norm,AIC,  15149.70
+EliteWantCommonGood,EndogPublicGoods,g_res_norm,loglike,  -7511.40
+EliteWantCommonGood,EndogPublicGoods,W4+l_pwd_a,beta,     -0.47
+EliteWantCommonGood,EndogPublicGoods,W4+l_pwd_a,tstat,     -0.57
+EliteWantCommonGood,EndogPublicGoods,W4+l_pwd_a,AIC,   2406.77
+EliteWantCommonGood,EndogPublicGoods,W4+l_pwd_a,loglike,  -1179.21
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,beta,     -0.47
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,tstat,     -0.57
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,AIC,   2404.34
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,loglike,  -1177.99
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,beta,     -0.47
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,tstat,     -0.57
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,AIC,   2410.30
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,loglike,  -1180.97
+EliteWantCommonGood,EndogPublicGoods,W4+wb_urbpop,beta,     -0.47
+EliteWantCommonGood,EndogPublicGoods,W4+wb_urbpop,tstat,     -0.57
+EliteWantCommonGood,EndogPublicGoods,W4+wb_urbpop,AIC,  16401.64
+EliteWantCommonGood,EndogPublicGoods,W4+wb_urbpop,loglike,  -8136.37
+EliteWantCommonGood,EndogPublicGoods,W4+l_res_norm,beta,     -0.47
+EliteWantCommonGood,EndogPublicGoods,W4+l_res_norm,tstat,     -0.57
+EliteWantCommonGood,EndogPublicGoods,W4+l_res_norm,AIC,  13813.15
+EliteWantCommonGood,EndogPublicGoods,W4+l_res_norm,loglike,  -6842.11
+EliteWantCommonGood,EndogPublicGoods,W4+p_res_norm,beta,     -0.47
+EliteWantCommonGood,EndogPublicGoods,W4+p_res_norm,tstat,     -0.57
+EliteWantCommonGood,EndogPublicGoods,W4+p_res_norm,AIC,  13778.79
+EliteWantCommonGood,EndogPublicGoods,W4+p_res_norm,loglike,  -6824.93
+EliteWantCommonGood,EndogPublicGoods,W4+r_res_norm,beta,     -0.47
+EliteWantCommonGood,EndogPublicGoods,W4+r_res_norm,tstat,     -0.57
+EliteWantCommonGood,EndogPublicGoods,W4+r_res_norm,AIC,  13729.63
+EliteWantCommonGood,EndogPublicGoods,W4+r_res_norm,loglike,  -6800.35
+EliteWantCommonGood,EndogPublicGoods,W4+g_res_norm,beta,     -0.47
+EliteWantCommonGood,EndogPublicGoods,W4+g_res_norm,tstat,     -0.57
+EliteWantCommonGood,EndogPublicGoods,W4+g_res_norm,AIC,  13786.46
+EliteWantCommonGood,EndogPublicGoods,W4+g_res_norm,loglike,  -6828.76
+PublicWantCommonGood,EndogPublicGoods,W4,beta,      3.96
+PublicWantCommonGood,EndogPublicGoods,W4,tstat,     18.65
+PublicWantCommonGood,EndogPublicGoods,W4,AIC,  15627.08
+PublicWantCommonGood,EndogPublicGoods,W4,loglike,  -7750.12
+PublicWantCommonGood,EndogPublicGoods,l_pwd_a,beta,     -0.24
+PublicWantCommonGood,EndogPublicGoods,l_pwd_a,tstat,     -1.51
+PublicWantCommonGood,EndogPublicGoods,l_pwd_a,AIC,   4055.12
+PublicWantCommonGood,EndogPublicGoods,l_pwd_a,loglike,  -2004.40
+PublicWantCommonGood,EndogPublicGoods,ln_pwd_g,beta,     -3.40
+PublicWantCommonGood,EndogPublicGoods,ln_pwd_g,tstat,     -1.33
+PublicWantCommonGood,EndogPublicGoods,ln_pwd_g,AIC,   4050.10
+PublicWantCommonGood,EndogPublicGoods,ln_pwd_g,loglike,  -2001.89
+PublicWantCommonGood,EndogPublicGoods,ln_pwd_m,beta,     -1.11
+PublicWantCommonGood,EndogPublicGoods,ln_pwd_m,tstat,     -0.65
+PublicWantCommonGood,EndogPublicGoods,ln_pwd_m,AIC,   4068.26
+PublicWantCommonGood,EndogPublicGoods,ln_pwd_m,loglike,  -2010.96
+PublicWantCommonGood,EndogPublicGoods,wb_urbpop,beta,      0.01
+PublicWantCommonGood,EndogPublicGoods,wb_urbpop,tstat,      2.11
+PublicWantCommonGood,EndogPublicGoods,wb_urbpop,AIC,  20374.06
+PublicWantCommonGood,EndogPublicGoods,wb_urbpop,loglike, -10123.60
+PublicWantCommonGood,EndogPublicGoods,l_res_norm,beta,     -1.52
+PublicWantCommonGood,EndogPublicGoods,l_res_norm,tstat,     -3.67
+PublicWantCommonGood,EndogPublicGoods,l_res_norm,AIC,  18966.81
+PublicWantCommonGood,EndogPublicGoods,l_res_norm,loglike,  -9419.95
+PublicWantCommonGood,EndogPublicGoods,p_res_norm,beta,      0.92
+PublicWantCommonGood,EndogPublicGoods,p_res_norm,tstat,      2.04
+PublicWantCommonGood,EndogPublicGoods,p_res_norm,AIC,  18997.25
+PublicWantCommonGood,EndogPublicGoods,p_res_norm,loglike,  -9435.17
+PublicWantCommonGood,EndogPublicGoods,r_res_norm,beta,     -1.56
+PublicWantCommonGood,EndogPublicGoods,r_res_norm,tstat,     -3.41
+PublicWantCommonGood,EndogPublicGoods,r_res_norm,AIC,  18995.16
+PublicWantCommonGood,EndogPublicGoods,r_res_norm,loglike,  -9434.13
+PublicWantCommonGood,EndogPublicGoods,g_res_norm,beta,      0.14
+PublicWantCommonGood,EndogPublicGoods,g_res_norm,tstat,      0.20
+PublicWantCommonGood,EndogPublicGoods,g_res_norm,AIC,  19088.19
+PublicWantCommonGood,EndogPublicGoods,g_res_norm,loglike,  -9480.64
+PublicWantCommonGood,EndogPublicGoods,W4+l_pwd_a,beta,      0.14
+PublicWantCommonGood,EndogPublicGoods,W4+l_pwd_a,tstat,      0.20
+PublicWantCommonGood,EndogPublicGoods,W4+l_pwd_a,AIC,   2625.23
+PublicWantCommonGood,EndogPublicGoods,W4+l_pwd_a,loglike,  -1288.44
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,beta,      0.14
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,tstat,      0.20
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,AIC,   2599.58
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,loglike,  -1275.61
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,beta,      0.14
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,tstat,      0.20
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,AIC,   2629.09
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,loglike,  -1290.37
+PublicWantCommonGood,EndogPublicGoods,W4+wb_urbpop,beta,      0.14
+PublicWantCommonGood,EndogPublicGoods,W4+wb_urbpop,tstat,      0.20
+PublicWantCommonGood,EndogPublicGoods,W4+wb_urbpop,AIC,  15241.14
+PublicWantCommonGood,EndogPublicGoods,W4+wb_urbpop,loglike,  -7556.13
+PublicWantCommonGood,EndogPublicGoods,W4+l_res_norm,beta,      0.14
+PublicWantCommonGood,EndogPublicGoods,W4+l_res_norm,tstat,      0.20
+PublicWantCommonGood,EndogPublicGoods,W4+l_res_norm,AIC,  13800.05
+PublicWantCommonGood,EndogPublicGoods,W4+l_res_norm,loglike,  -6835.56
+PublicWantCommonGood,EndogPublicGoods,W4+p_res_norm,beta,      0.14
+PublicWantCommonGood,EndogPublicGoods,W4+p_res_norm,tstat,      0.20
+PublicWantCommonGood,EndogPublicGoods,W4+p_res_norm,AIC,  13844.06
+PublicWantCommonGood,EndogPublicGoods,W4+p_res_norm,loglike,  -6857.56
+PublicWantCommonGood,EndogPublicGoods,W4+r_res_norm,beta,      0.14
+PublicWantCommonGood,EndogPublicGoods,W4+r_res_norm,tstat,      0.20
+PublicWantCommonGood,EndogPublicGoods,W4+r_res_norm,AIC,  13787.59
+PublicWantCommonGood,EndogPublicGoods,W4+r_res_norm,loglike,  -6829.32
+PublicWantCommonGood,EndogPublicGoods,W4+g_res_norm,beta,      0.14
+PublicWantCommonGood,EndogPublicGoods,W4+g_res_norm,tstat,      0.20
+PublicWantCommonGood,EndogPublicGoods,W4+g_res_norm,AIC,  13848.95
+PublicWantCommonGood,EndogPublicGoods,W4+g_res_norm,loglike,  -6860.00
+TransparentLaws,KeyPublicGoods,W4,beta,      3.12
+TransparentLaws,KeyPublicGoods,W4,tstat,     13.80
+TransparentLaws,KeyPublicGoods,W4,AIC,  14127.37
+TransparentLaws,KeyPublicGoods,W4,loglike,  -7000.26
+TransparentLaws,KeyPublicGoods,l_pwd_a,beta,      0.01
+TransparentLaws,KeyPublicGoods,l_pwd_a,tstat,      0.13
+TransparentLaws,KeyPublicGoods,l_pwd_a,AIC,   1940.00
+TransparentLaws,KeyPublicGoods,l_pwd_a,loglike,   -946.83
+TransparentLaws,KeyPublicGoods,ln_pwd_g,beta,     -0.10
+TransparentLaws,KeyPublicGoods,ln_pwd_g,tstat,     -0.05
+TransparentLaws,KeyPublicGoods,ln_pwd_g,AIC,   1940.08
+TransparentLaws,KeyPublicGoods,ln_pwd_g,loglike,   -946.87
+TransparentLaws,KeyPublicGoods,ln_pwd_m,beta,      1.14
+TransparentLaws,KeyPublicGoods,ln_pwd_m,tstat,      0.86
+TransparentLaws,KeyPublicGoods,ln_pwd_m,AIC,   1928.83
+TransparentLaws,KeyPublicGoods,ln_pwd_m,loglike,   -941.25
+TransparentLaws,KeyPublicGoods,wb_urbpop,beta,      0.01
+TransparentLaws,KeyPublicGoods,wb_urbpop,tstat,      0.81
+TransparentLaws,KeyPublicGoods,wb_urbpop,AIC,  17755.79
+TransparentLaws,KeyPublicGoods,wb_urbpop,loglike,  -8814.46
+TransparentLaws,KeyPublicGoods,l_res_norm,beta,     -1.15
+TransparentLaws,KeyPublicGoods,l_res_norm,tstat,     -2.22
+TransparentLaws,KeyPublicGoods,l_res_norm,AIC,  16350.21
+TransparentLaws,KeyPublicGoods,l_res_norm,loglike,  -8111.65
+TransparentLaws,KeyPublicGoods,p_res_norm,beta,      0.81
+TransparentLaws,KeyPublicGoods,p_res_norm,tstat,      1.94
+TransparentLaws,KeyPublicGoods,p_res_norm,AIC,  16348.29
+TransparentLaws,KeyPublicGoods,p_res_norm,loglike,  -8110.69
+TransparentLaws,KeyPublicGoods,r_res_norm,beta,     -1.05
+TransparentLaws,KeyPublicGoods,r_res_norm,tstat,     -1.80
+TransparentLaws,KeyPublicGoods,r_res_norm,AIC,  16387.66
+TransparentLaws,KeyPublicGoods,r_res_norm,loglike,  -8130.38
+TransparentLaws,KeyPublicGoods,g_res_norm,beta,      0.01
+TransparentLaws,KeyPublicGoods,g_res_norm,tstat,      0.01
+TransparentLaws,KeyPublicGoods,g_res_norm,AIC,  16444.16
+TransparentLaws,KeyPublicGoods,g_res_norm,loglike,  -8158.62
+TransparentLaws,KeyPublicGoods,W4+l_pwd_a,beta,      0.01
+TransparentLaws,KeyPublicGoods,W4+l_pwd_a,tstat,      0.01
+TransparentLaws,KeyPublicGoods,W4+l_pwd_a,AIC,   1183.33
+TransparentLaws,KeyPublicGoods,W4+l_pwd_a,loglike,   -567.49
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_g,beta,      0.01
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_g,tstat,      0.01
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_g,AIC,   1181.59
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_g,loglike,   -566.62
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_m,beta,      0.01
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_m,tstat,      0.01
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_m,AIC,   1179.02
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_m,loglike,   -565.33
+TransparentLaws,KeyPublicGoods,W4+wb_urbpop,beta,      0.01
+TransparentLaws,KeyPublicGoods,W4+wb_urbpop,tstat,      0.01
+TransparentLaws,KeyPublicGoods,W4+wb_urbpop,AIC,  13695.93
+TransparentLaws,KeyPublicGoods,W4+wb_urbpop,loglike,  -6783.52
+TransparentLaws,KeyPublicGoods,W4+l_res_norm,beta,      0.01
+TransparentLaws,KeyPublicGoods,W4+l_res_norm,tstat,      0.01
+TransparentLaws,KeyPublicGoods,W4+l_res_norm,AIC,  12435.70
+TransparentLaws,KeyPublicGoods,W4+l_res_norm,loglike,  -6153.38
+TransparentLaws,KeyPublicGoods,W4+p_res_norm,beta,      0.01
+TransparentLaws,KeyPublicGoods,W4+p_res_norm,tstat,      0.01
+TransparentLaws,KeyPublicGoods,W4+p_res_norm,AIC,  12453.13
+TransparentLaws,KeyPublicGoods,W4+p_res_norm,loglike,  -6162.09
+TransparentLaws,KeyPublicGoods,W4+r_res_norm,beta,      0.01
+TransparentLaws,KeyPublicGoods,W4+r_res_norm,tstat,      0.01
+TransparentLaws,KeyPublicGoods,W4+r_res_norm,AIC,  12441.36
+TransparentLaws,KeyPublicGoods,W4+r_res_norm,loglike,  -6156.21
+TransparentLaws,KeyPublicGoods,W4+g_res_norm,beta,      0.01
+TransparentLaws,KeyPublicGoods,W4+g_res_norm,tstat,      0.01
+TransparentLaws,KeyPublicGoods,W4+g_res_norm,AIC,  12462.04
+TransparentLaws,KeyPublicGoods,W4+g_res_norm,loglike,  -6166.55
+JudicialIndep,KeyPublicGoods,W4,beta,      2.77
+JudicialIndep,KeyPublicGoods,W4,tstat,     10.56
+JudicialIndep,KeyPublicGoods,W4,AIC,  15375.57
+JudicialIndep,KeyPublicGoods,W4,loglike,  -7624.36
+JudicialIndep,KeyPublicGoods,l_pwd_a,beta,     -0.08
+JudicialIndep,KeyPublicGoods,l_pwd_a,tstat,     -0.82
+JudicialIndep,KeyPublicGoods,l_pwd_a,AIC,   3032.28
+JudicialIndep,KeyPublicGoods,l_pwd_a,loglike,  -1492.98
+JudicialIndep,KeyPublicGoods,ln_pwd_g,beta,     -0.86
+JudicialIndep,KeyPublicGoods,ln_pwd_g,tstat,     -0.53
+JudicialIndep,KeyPublicGoods,ln_pwd_g,AIC,   3032.82
+JudicialIndep,KeyPublicGoods,ln_pwd_g,loglike,  -1493.25
+JudicialIndep,KeyPublicGoods,ln_pwd_m,beta,     -0.41
+JudicialIndep,KeyPublicGoods,ln_pwd_m,tstat,     -0.35
+JudicialIndep,KeyPublicGoods,ln_pwd_m,AIC,   3033.86
+JudicialIndep,KeyPublicGoods,ln_pwd_m,loglike,  -1493.77
+JudicialIndep,KeyPublicGoods,wb_urbpop,beta,      0.01
+JudicialIndep,KeyPublicGoods,wb_urbpop,tstat,      2.29
+JudicialIndep,KeyPublicGoods,wb_urbpop,AIC,  17977.86
+JudicialIndep,KeyPublicGoods,wb_urbpop,loglike,  -8925.49
+JudicialIndep,KeyPublicGoods,l_res_norm,beta,     -1.17
+JudicialIndep,KeyPublicGoods,l_res_norm,tstat,     -1.86
+JudicialIndep,KeyPublicGoods,l_res_norm,AIC,  16573.48
+JudicialIndep,KeyPublicGoods,l_res_norm,loglike,  -8223.29
+JudicialIndep,KeyPublicGoods,p_res_norm,beta,      0.11
+JudicialIndep,KeyPublicGoods,p_res_norm,tstat,      0.30
+JudicialIndep,KeyPublicGoods,p_res_norm,AIC,  16667.08
+JudicialIndep,KeyPublicGoods,p_res_norm,loglike,  -8270.08
+JudicialIndep,KeyPublicGoods,r_res_norm,beta,     -1.47
+JudicialIndep,KeyPublicGoods,r_res_norm,tstat,     -3.07
+JudicialIndep,KeyPublicGoods,r_res_norm,AIC,  16560.27
+JudicialIndep,KeyPublicGoods,r_res_norm,loglike,  -8216.68
+JudicialIndep,KeyPublicGoods,g_res_norm,beta,      0.04
+JudicialIndep,KeyPublicGoods,g_res_norm,tstat,      0.04
+JudicialIndep,KeyPublicGoods,g_res_norm,AIC,  16668.57
+JudicialIndep,KeyPublicGoods,g_res_norm,loglike,  -8270.83
+JudicialIndep,KeyPublicGoods,W4+l_pwd_a,beta,      0.04
+JudicialIndep,KeyPublicGoods,W4+l_pwd_a,tstat,      0.04
+JudicialIndep,KeyPublicGoods,W4+l_pwd_a,AIC,   2084.09
+JudicialIndep,KeyPublicGoods,W4+l_pwd_a,loglike,  -1017.87
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_g,beta,      0.04
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_g,tstat,      0.04
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_g,AIC,   2080.18
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_g,loglike,  -1015.91
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_m,beta,      0.04
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_m,tstat,      0.04
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_m,AIC,   2079.18
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_m,loglike,  -1015.41
+JudicialIndep,KeyPublicGoods,W4+wb_urbpop,beta,      0.04
+JudicialIndep,KeyPublicGoods,W4+wb_urbpop,tstat,      0.04
+JudicialIndep,KeyPublicGoods,W4+wb_urbpop,AIC,  15132.15
+JudicialIndep,KeyPublicGoods,W4+wb_urbpop,loglike,  -7501.63
+JudicialIndep,KeyPublicGoods,W4+l_res_norm,beta,      0.04
+JudicialIndep,KeyPublicGoods,W4+l_res_norm,tstat,      0.04
+JudicialIndep,KeyPublicGoods,W4+l_res_norm,AIC,  13465.11
+JudicialIndep,KeyPublicGoods,W4+l_res_norm,loglike,  -6668.08
+JudicialIndep,KeyPublicGoods,W4+p_res_norm,beta,      0.04
+JudicialIndep,KeyPublicGoods,W4+p_res_norm,tstat,      0.04
+JudicialIndep,KeyPublicGoods,W4+p_res_norm,AIC,  13471.80
+JudicialIndep,KeyPublicGoods,W4+p_res_norm,loglike,  -6671.43
+JudicialIndep,KeyPublicGoods,W4+r_res_norm,beta,      0.04
+JudicialIndep,KeyPublicGoods,W4+r_res_norm,tstat,      0.04
+JudicialIndep,KeyPublicGoods,W4+r_res_norm,AIC,  13424.10
+JudicialIndep,KeyPublicGoods,W4+r_res_norm,loglike,  -6647.58
+JudicialIndep,KeyPublicGoods,W4+g_res_norm,beta,      0.04
+JudicialIndep,KeyPublicGoods,W4+g_res_norm,tstat,      0.04
+JudicialIndep,KeyPublicGoods,W4+g_res_norm,AIC,  13499.18
+JudicialIndep,KeyPublicGoods,W4+g_res_norm,loglike,  -6685.12
+FreeExpression,KeyPublicGoods,W4,beta,      1.11
+FreeExpression,KeyPublicGoods,W4,tstat,     26.80
+FreeExpression,KeyPublicGoods,W4,AIC, -16852.33
+FreeExpression,KeyPublicGoods,W4,loglike,   8489.59
+FreeExpression,KeyPublicGoods,l_pwd_a,beta,      0.02
+FreeExpression,KeyPublicGoods,l_pwd_a,tstat,      0.58
+FreeExpression,KeyPublicGoods,l_pwd_a,AIC,  -7393.39
+FreeExpression,KeyPublicGoods,l_pwd_a,loglike,   3719.86
+FreeExpression,KeyPublicGoods,ln_pwd_g,beta,      0.20
+FreeExpression,KeyPublicGoods,ln_pwd_g,tstat,      0.39
+FreeExpression,KeyPublicGoods,ln_pwd_g,AIC,  -7392.57
+FreeExpression,KeyPublicGoods,ln_pwd_g,loglike,   3719.45
+FreeExpression,KeyPublicGoods,ln_pwd_m,beta,      0.31
+FreeExpression,KeyPublicGoods,ln_pwd_m,tstat,      0.88
+FreeExpression,KeyPublicGoods,ln_pwd_m,AIC,  -7403.06
+FreeExpression,KeyPublicGoods,ln_pwd_m,loglike,   3724.69
+FreeExpression,KeyPublicGoods,wb_urbpop,beta,      0.00
+FreeExpression,KeyPublicGoods,wb_urbpop,tstat,      2.94
+FreeExpression,KeyPublicGoods,wb_urbpop,AIC,  -7485.66
+FreeExpression,KeyPublicGoods,wb_urbpop,loglike,   3806.26
+FreeExpression,KeyPublicGoods,l_res_norm,beta,     -0.44
+FreeExpression,KeyPublicGoods,l_res_norm,tstat,     -3.13
+FreeExpression,KeyPublicGoods,l_res_norm,AIC,  -7318.47
+FreeExpression,KeyPublicGoods,l_res_norm,loglike,   3722.69
+FreeExpression,KeyPublicGoods,p_res_norm,beta,      0.21
+FreeExpression,KeyPublicGoods,p_res_norm,tstat,      1.77
+FreeExpression,KeyPublicGoods,p_res_norm,AIC,  -7211.14
+FreeExpression,KeyPublicGoods,p_res_norm,loglike,   3669.03
+FreeExpression,KeyPublicGoods,r_res_norm,beta,     -0.23
+FreeExpression,KeyPublicGoods,r_res_norm,tstat,     -1.27
+FreeExpression,KeyPublicGoods,r_res_norm,AIC,  -7162.19
+FreeExpression,KeyPublicGoods,r_res_norm,loglike,   3644.55
+FreeExpression,KeyPublicGoods,g_res_norm,beta,      0.26
+FreeExpression,KeyPublicGoods,g_res_norm,tstat,      1.55
+FreeExpression,KeyPublicGoods,g_res_norm,AIC,  -7174.89
+FreeExpression,KeyPublicGoods,g_res_norm,loglike,   3650.90
+FreeExpression,KeyPublicGoods,W4+l_pwd_a,beta,      0.26
+FreeExpression,KeyPublicGoods,W4+l_pwd_a,tstat,      1.55
+FreeExpression,KeyPublicGoods,W4+l_pwd_a,AIC,  -9540.18
+FreeExpression,KeyPublicGoods,W4+l_pwd_a,loglike,   4794.27
+FreeExpression,KeyPublicGoods,W4+ln_pwd_g,beta,      0.26
+FreeExpression,KeyPublicGoods,W4+ln_pwd_g,tstat,      1.55
+FreeExpression,KeyPublicGoods,W4+ln_pwd_g,AIC,  -9536.17
+FreeExpression,KeyPublicGoods,W4+ln_pwd_g,loglike,   4792.26
+FreeExpression,KeyPublicGoods,W4+ln_pwd_m,beta,      0.26
+FreeExpression,KeyPublicGoods,W4+ln_pwd_m,tstat,      1.55
+FreeExpression,KeyPublicGoods,W4+ln_pwd_m,AIC,  -9539.36
+FreeExpression,KeyPublicGoods,W4+ln_pwd_m,loglike,   4793.86
+FreeExpression,KeyPublicGoods,W4+wb_urbpop,beta,      0.26
+FreeExpression,KeyPublicGoods,W4+wb_urbpop,tstat,      1.55
+FreeExpression,KeyPublicGoods,W4+wb_urbpop,AIC, -17047.97
+FreeExpression,KeyPublicGoods,W4+wb_urbpop,loglike,   8588.43
+FreeExpression,KeyPublicGoods,W4+l_res_norm,beta,      0.26
+FreeExpression,KeyPublicGoods,W4+l_res_norm,tstat,      1.55
+FreeExpression,KeyPublicGoods,W4+l_res_norm,AIC, -16750.97
+FreeExpression,KeyPublicGoods,W4+l_res_norm,loglike,   8439.96
+FreeExpression,KeyPublicGoods,W4+p_res_norm,beta,      0.26
+FreeExpression,KeyPublicGoods,W4+p_res_norm,tstat,      1.55
+FreeExpression,KeyPublicGoods,W4+p_res_norm,AIC, -16605.09
+FreeExpression,KeyPublicGoods,W4+p_res_norm,loglike,   8367.02
+FreeExpression,KeyPublicGoods,W4+r_res_norm,beta,      0.26
+FreeExpression,KeyPublicGoods,W4+r_res_norm,tstat,      1.55
+FreeExpression,KeyPublicGoods,W4+r_res_norm,AIC, -16613.04
+FreeExpression,KeyPublicGoods,W4+r_res_norm,loglike,   8370.99
+FreeExpression,KeyPublicGoods,W4+g_res_norm,beta,      0.26
+FreeExpression,KeyPublicGoods,W4+g_res_norm,tstat,      1.55
+FreeExpression,KeyPublicGoods,W4+g_res_norm,AIC, -16651.60
+FreeExpression,KeyPublicGoods,W4+g_res_norm,loglike,   8390.27
+StateOwnsEconomy,KeyCorruptions,W4,beta,     -2.32
+StateOwnsEconomy,KeyCorruptions,W4,tstat,     -6.23
+StateOwnsEconomy,KeyCorruptions,W4,AIC,  18087.69
+StateOwnsEconomy,KeyCorruptions,W4,loglike,  -8980.42
+StateOwnsEconomy,KeyCorruptions,l_pwd_a,beta,      0.03
+StateOwnsEconomy,KeyCorruptions,l_pwd_a,tstat,      0.48
+StateOwnsEconomy,KeyCorruptions,l_pwd_a,AIC,    126.97
+StateOwnsEconomy,KeyCorruptions,l_pwd_a,loglike,    -40.32
+StateOwnsEconomy,KeyCorruptions,ln_pwd_g,beta,      1.26
+StateOwnsEconomy,KeyCorruptions,ln_pwd_g,tstat,      1.20
+StateOwnsEconomy,KeyCorruptions,ln_pwd_g,AIC,    117.51
+StateOwnsEconomy,KeyCorruptions,ln_pwd_g,loglike,    -35.59
+StateOwnsEconomy,KeyCorruptions,ln_pwd_m,beta,      0.78
+StateOwnsEconomy,KeyCorruptions,ln_pwd_m,tstat,      1.02
+StateOwnsEconomy,KeyCorruptions,ln_pwd_m,AIC,    119.07
+StateOwnsEconomy,KeyCorruptions,ln_pwd_m,loglike,    -36.37
+StateOwnsEconomy,KeyCorruptions,wb_urbpop,beta,     -0.00
+StateOwnsEconomy,KeyCorruptions,wb_urbpop,tstat,     -0.42
+StateOwnsEconomy,KeyCorruptions,wb_urbpop,AIC,  19386.90
+StateOwnsEconomy,KeyCorruptions,wb_urbpop,loglike,  -9630.02
+StateOwnsEconomy,KeyCorruptions,l_res_norm,beta,     -0.20
+StateOwnsEconomy,KeyCorruptions,l_res_norm,tstat,     -0.20
+StateOwnsEconomy,KeyCorruptions,l_res_norm,AIC,  17740.74
+StateOwnsEconomy,KeyCorruptions,l_res_norm,loglike,  -8806.91
+StateOwnsEconomy,KeyCorruptions,p_res_norm,beta,     -0.53
+StateOwnsEconomy,KeyCorruptions,p_res_norm,tstat,     -0.97
+StateOwnsEconomy,KeyCorruptions,p_res_norm,AIC,  17708.10
+StateOwnsEconomy,KeyCorruptions,p_res_norm,loglike,  -8790.59
+StateOwnsEconomy,KeyCorruptions,r_res_norm,beta,      1.38
+StateOwnsEconomy,KeyCorruptions,r_res_norm,tstat,      1.70
+StateOwnsEconomy,KeyCorruptions,r_res_norm,AIC,  17657.41
+StateOwnsEconomy,KeyCorruptions,r_res_norm,loglike,  -8765.25
+StateOwnsEconomy,KeyCorruptions,g_res_norm,beta,     -0.84
+StateOwnsEconomy,KeyCorruptions,g_res_norm,tstat,     -1.01
+StateOwnsEconomy,KeyCorruptions,g_res_norm,AIC,  17711.43
+StateOwnsEconomy,KeyCorruptions,g_res_norm,loglike,  -8792.26
+StateOwnsEconomy,KeyCorruptions,W4+l_pwd_a,beta,     -0.84
+StateOwnsEconomy,KeyCorruptions,W4+l_pwd_a,tstat,     -1.01
+StateOwnsEconomy,KeyCorruptions,W4+l_pwd_a,AIC,   -252.26
+StateOwnsEconomy,KeyCorruptions,W4+l_pwd_a,loglike,    150.31
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_g,beta,     -0.84
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_g,tstat,     -1.01
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_g,AIC,   -268.30
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_g,loglike,    158.33
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_m,beta,     -0.84
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_m,tstat,     -1.01
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_m,AIC,   -269.42
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_m,loglike,    158.89
+StateOwnsEconomy,KeyCorruptions,W4+wb_urbpop,beta,     -0.84
+StateOwnsEconomy,KeyCorruptions,W4+wb_urbpop,tstat,     -1.01
+StateOwnsEconomy,KeyCorruptions,W4+wb_urbpop,AIC,  17800.54
+StateOwnsEconomy,KeyCorruptions,W4+wb_urbpop,loglike,  -8835.82
+StateOwnsEconomy,KeyCorruptions,W4+l_res_norm,beta,     -0.84
+StateOwnsEconomy,KeyCorruptions,W4+l_res_norm,tstat,     -1.01
+StateOwnsEconomy,KeyCorruptions,W4+l_res_norm,AIC,  15865.58
+StateOwnsEconomy,KeyCorruptions,W4+l_res_norm,loglike,  -7868.32
+StateOwnsEconomy,KeyCorruptions,W4+p_res_norm,beta,     -0.84
+StateOwnsEconomy,KeyCorruptions,W4+p_res_norm,tstat,     -1.01
+StateOwnsEconomy,KeyCorruptions,W4+p_res_norm,AIC,  15896.94
+StateOwnsEconomy,KeyCorruptions,W4+p_res_norm,loglike,  -7884.00
+StateOwnsEconomy,KeyCorruptions,W4+r_res_norm,beta,     -0.84
+StateOwnsEconomy,KeyCorruptions,W4+r_res_norm,tstat,     -1.01
+StateOwnsEconomy,KeyCorruptions,W4+r_res_norm,AIC,  15840.01
+StateOwnsEconomy,KeyCorruptions,W4+r_res_norm,loglike,  -7855.54
+StateOwnsEconomy,KeyCorruptions,W4+g_res_norm,beta,     -0.84
+StateOwnsEconomy,KeyCorruptions,W4+g_res_norm,tstat,     -1.01
+StateOwnsEconomy,KeyCorruptions,W4+g_res_norm,AIC,  15879.02
+StateOwnsEconomy,KeyCorruptions,W4+g_res_norm,loglike,  -7875.04
+RespectConstitution,Freedoms,W4,beta,      3.64
+RespectConstitution,Freedoms,W4,tstat,     11.67
+RespectConstitution,Freedoms,W4,AIC,  15956.31
+RespectConstitution,Freedoms,W4,loglike,  -7914.72
+RespectConstitution,Freedoms,l_pwd_a,beta,      0.03
+RespectConstitution,Freedoms,l_pwd_a,tstat,      0.24
+RespectConstitution,Freedoms,l_pwd_a,AIC,   3035.01
+RespectConstitution,Freedoms,l_pwd_a,loglike,  -1494.34
+RespectConstitution,Freedoms,ln_pwd_g,beta,      0.13
+RespectConstitution,Freedoms,ln_pwd_g,tstat,      0.06
+RespectConstitution,Freedoms,ln_pwd_g,AIC,   3035.29
+RespectConstitution,Freedoms,ln_pwd_g,loglike,  -1494.48
+RespectConstitution,Freedoms,ln_pwd_m,beta,      0.59
+RespectConstitution,Freedoms,ln_pwd_m,tstat,      0.35
+RespectConstitution,Freedoms,ln_pwd_m,AIC,   3033.12
+RespectConstitution,Freedoms,ln_pwd_m,loglike,  -1493.40
+RespectConstitution,Freedoms,wb_urbpop,beta,      0.01
+RespectConstitution,Freedoms,wb_urbpop,tstat,      1.14
+RespectConstitution,Freedoms,wb_urbpop,AIC,  19845.11
+RespectConstitution,Freedoms,wb_urbpop,loglike,  -9859.12
+RespectConstitution,Freedoms,l_res_norm,beta,     -1.04
+RespectConstitution,Freedoms,l_res_norm,tstat,     -1.63
+RespectConstitution,Freedoms,l_res_norm,AIC,  18644.40
+RespectConstitution,Freedoms,l_res_norm,loglike,  -9258.74
+RespectConstitution,Freedoms,p_res_norm,beta,      0.56
+RespectConstitution,Freedoms,p_res_norm,tstat,      1.09
+RespectConstitution,Freedoms,p_res_norm,AIC,  18669.15
+RespectConstitution,Freedoms,p_res_norm,loglike,  -9271.12
+RespectConstitution,Freedoms,r_res_norm,beta,     -1.16
+RespectConstitution,Freedoms,r_res_norm,tstat,     -1.90
+RespectConstitution,Freedoms,r_res_norm,AIC,  18650.37
+RespectConstitution,Freedoms,r_res_norm,loglike,  -9261.73
+RespectConstitution,Freedoms,g_res_norm,beta,      0.18
+RespectConstitution,Freedoms,g_res_norm,tstat,      0.23
+RespectConstitution,Freedoms,g_res_norm,AIC,  18702.45
+RespectConstitution,Freedoms,g_res_norm,loglike,  -9287.77
+RespectConstitution,Freedoms,W4+l_pwd_a,beta,      0.18
+RespectConstitution,Freedoms,W4+l_pwd_a,tstat,      0.23
+RespectConstitution,Freedoms,W4+l_pwd_a,AIC,   1309.42
+RespectConstitution,Freedoms,W4+l_pwd_a,loglike,   -630.53
+RespectConstitution,Freedoms,W4+ln_pwd_g,beta,      0.18
+RespectConstitution,Freedoms,W4+ln_pwd_g,tstat,      0.23
+RespectConstitution,Freedoms,W4+ln_pwd_g,AIC,   1307.55
+RespectConstitution,Freedoms,W4+ln_pwd_g,loglike,   -629.59
+RespectConstitution,Freedoms,W4+ln_pwd_m,beta,      0.18
+RespectConstitution,Freedoms,W4+ln_pwd_m,tstat,      0.23
+RespectConstitution,Freedoms,W4+ln_pwd_m,AIC,   1309.00
+RespectConstitution,Freedoms,W4+ln_pwd_m,loglike,   -630.32
+RespectConstitution,Freedoms,W4+wb_urbpop,beta,      0.18
+RespectConstitution,Freedoms,W4+wb_urbpop,tstat,      0.23
+RespectConstitution,Freedoms,W4+wb_urbpop,AIC,  15472.61
+RespectConstitution,Freedoms,W4+wb_urbpop,loglike,  -7671.86
+RespectConstitution,Freedoms,W4+l_res_norm,beta,      0.18
+RespectConstitution,Freedoms,W4+l_res_norm,tstat,      0.23
+RespectConstitution,Freedoms,W4+l_res_norm,AIC,  14160.96
+RespectConstitution,Freedoms,W4+l_res_norm,loglike,  -7016.01
+RespectConstitution,Freedoms,W4+p_res_norm,beta,      0.18
+RespectConstitution,Freedoms,W4+p_res_norm,tstat,      0.23
+RespectConstitution,Freedoms,W4+p_res_norm,AIC,  14168.99
+RespectConstitution,Freedoms,W4+p_res_norm,loglike,  -7020.03
+RespectConstitution,Freedoms,W4+r_res_norm,beta,      0.18
+RespectConstitution,Freedoms,W4+r_res_norm,tstat,      0.23
+RespectConstitution,Freedoms,W4+r_res_norm,AIC,  14145.64
+RespectConstitution,Freedoms,W4+r_res_norm,loglike,  -7008.35
+RespectConstitution,Freedoms,W4+g_res_norm,beta,      0.18
+RespectConstitution,Freedoms,W4+g_res_norm,tstat,      0.23
+RespectConstitution,Freedoms,W4+g_res_norm,AIC,  14168.24
+RespectConstitution,Freedoms,W4+g_res_norm,loglike,  -7019.65
+RuleofLaw,Freedoms,W4,beta,      0.53
+RuleofLaw,Freedoms,W4,tstat,     11.62
+RuleofLaw,Freedoms,W4,AIC, -17837.65
+RuleofLaw,Freedoms,W4,loglike,   8982.25
+RuleofLaw,Freedoms,l_pwd_a,beta,      0.00
+RuleofLaw,Freedoms,l_pwd_a,tstat,      0.09
+RuleofLaw,Freedoms,l_pwd_a,AIC,  -9183.83
+RuleofLaw,Freedoms,l_pwd_a,loglike,   4615.08
+RuleofLaw,Freedoms,ln_pwd_g,beta,     -0.07
+RuleofLaw,Freedoms,ln_pwd_g,tstat,     -0.15
+RuleofLaw,Freedoms,ln_pwd_g,AIC,  -9184.22
+RuleofLaw,Freedoms,ln_pwd_g,loglike,   4615.27
+RuleofLaw,Freedoms,ln_pwd_m,beta,      0.14
+RuleofLaw,Freedoms,ln_pwd_m,tstat,      0.43
+RuleofLaw,Freedoms,ln_pwd_m,AIC,  -9188.17
+RuleofLaw,Freedoms,ln_pwd_m,loglike,   4617.25
+RuleofLaw,Freedoms,wb_urbpop,beta,      0.00
+RuleofLaw,Freedoms,wb_urbpop,tstat,      0.91
+RuleofLaw,Freedoms,wb_urbpop,AIC, -14620.87
+RuleofLaw,Freedoms,wb_urbpop,loglike,   7373.87
+RuleofLaw,Freedoms,l_res_norm,beta,     -0.16
+RuleofLaw,Freedoms,l_res_norm,tstat,     -1.51
+RuleofLaw,Freedoms,l_res_norm,AIC, -14510.01
+RuleofLaw,Freedoms,l_res_norm,loglike,   7318.46
+RuleofLaw,Freedoms,p_res_norm,beta,      0.12
+RuleofLaw,Freedoms,p_res_norm,tstat,      1.57
+RuleofLaw,Freedoms,p_res_norm,AIC, -14517.85
+RuleofLaw,Freedoms,p_res_norm,loglike,   7322.38
+RuleofLaw,Freedoms,r_res_norm,beta,     -0.32
+RuleofLaw,Freedoms,r_res_norm,tstat,     -3.30
+RuleofLaw,Freedoms,r_res_norm,AIC, -14621.84
+RuleofLaw,Freedoms,r_res_norm,loglike,   7374.38
+RuleofLaw,Freedoms,g_res_norm,beta,     -0.03
+RuleofLaw,Freedoms,g_res_norm,tstat,     -0.16
+RuleofLaw,Freedoms,g_res_norm,AIC, -14456.23
+RuleofLaw,Freedoms,g_res_norm,loglike,   7291.57
+RuleofLaw,Freedoms,W4+l_pwd_a,beta,     -0.03
+RuleofLaw,Freedoms,W4+l_pwd_a,tstat,     -0.16
+RuleofLaw,Freedoms,W4+l_pwd_a,AIC, -10501.31
+RuleofLaw,Freedoms,W4+l_pwd_a,loglike,   5274.83
+RuleofLaw,Freedoms,W4+ln_pwd_g,beta,     -0.03
+RuleofLaw,Freedoms,W4+ln_pwd_g,tstat,     -0.16
+RuleofLaw,Freedoms,W4+ln_pwd_g,AIC, -10506.82
+RuleofLaw,Freedoms,W4+ln_pwd_g,loglike,   5277.59
+RuleofLaw,Freedoms,W4+ln_pwd_m,beta,     -0.03
+RuleofLaw,Freedoms,W4+ln_pwd_m,tstat,     -0.16
+RuleofLaw,Freedoms,W4+ln_pwd_m,AIC, -10501.36
+RuleofLaw,Freedoms,W4+ln_pwd_m,loglike,   5274.86
+RuleofLaw,Freedoms,W4+wb_urbpop,beta,     -0.03
+RuleofLaw,Freedoms,W4+wb_urbpop,tstat,     -0.16
+RuleofLaw,Freedoms,W4+wb_urbpop,AIC, -18031.99
+RuleofLaw,Freedoms,W4+wb_urbpop,loglike,   9080.44
+RuleofLaw,Freedoms,W4+l_res_norm,beta,     -0.03
+RuleofLaw,Freedoms,W4+l_res_norm,tstat,     -0.16
+RuleofLaw,Freedoms,W4+l_res_norm,AIC, -17991.29
+RuleofLaw,Freedoms,W4+l_res_norm,loglike,   9060.11
+RuleofLaw,Freedoms,W4+p_res_norm,beta,     -0.03
+RuleofLaw,Freedoms,W4+p_res_norm,tstat,     -0.16
+RuleofLaw,Freedoms,W4+p_res_norm,AIC, -17985.32
+RuleofLaw,Freedoms,W4+p_res_norm,loglike,   9057.13
+RuleofLaw,Freedoms,W4+r_res_norm,beta,     -0.03
+RuleofLaw,Freedoms,W4+r_res_norm,tstat,     -0.16
+RuleofLaw,Freedoms,W4+r_res_norm,AIC, -18123.85
+RuleofLaw,Freedoms,W4+r_res_norm,loglike,   9126.39
+RuleofLaw,Freedoms,W4+g_res_norm,beta,     -0.03
+RuleofLaw,Freedoms,W4+g_res_norm,tstat,     -0.16
+RuleofLaw,Freedoms,W4+g_res_norm,AIC, -17996.91
+RuleofLaw,Freedoms,W4+g_res_norm,loglike,   9062.93
+FreeElections,Freedoms,W4,beta,      5.29
+FreeElections,Freedoms,W4,tstat,     21.48
+FreeElections,Freedoms,W4,AIC,  13931.69
+FreeElections,Freedoms,W4,loglike,  -6902.33
+FreeElections,Freedoms,l_pwd_a,beta,      0.23
+FreeElections,Freedoms,l_pwd_a,tstat,      0.78
+FreeElections,Freedoms,l_pwd_a,AIC,   4363.32
+FreeElections,Freedoms,l_pwd_a,loglike,  -2158.49
+FreeElections,Freedoms,ln_pwd_g,beta,      1.99
+FreeElections,Freedoms,ln_pwd_g,tstat,      0.61
+FreeElections,Freedoms,ln_pwd_g,AIC,   4367.07
+FreeElections,Freedoms,ln_pwd_g,loglike,  -2160.36
+FreeElections,Freedoms,ln_pwd_m,beta,      1.65
+FreeElections,Freedoms,ln_pwd_m,tstat,      0.83
+FreeElections,Freedoms,ln_pwd_m,AIC,   4363.54
+FreeElections,Freedoms,ln_pwd_m,loglike,  -2158.60
+FreeElections,Freedoms,wb_urbpop,beta,      0.04
+FreeElections,Freedoms,wb_urbpop,tstat,      4.01
+FreeElections,Freedoms,wb_urbpop,AIC,  18760.55
+FreeElections,Freedoms,wb_urbpop,loglike,  -9316.76
+FreeElections,Freedoms,l_res_norm,beta,     -1.66
+FreeElections,Freedoms,l_res_norm,tstat,     -1.90
+FreeElections,Freedoms,l_res_norm,AIC,  18342.98
+FreeElections,Freedoms,l_res_norm,loglike,  -9107.95
+FreeElections,Freedoms,p_res_norm,beta,      0.81
+FreeElections,Freedoms,p_res_norm,tstat,      1.25
+FreeElections,Freedoms,p_res_norm,AIC,  18395.68
+FreeElections,Freedoms,p_res_norm,loglike,  -9134.31
+FreeElections,Freedoms,r_res_norm,beta,     -0.70
+FreeElections,Freedoms,r_res_norm,tstat,     -1.12
+FreeElections,Freedoms,r_res_norm,AIC,  18423.68
+FreeElections,Freedoms,r_res_norm,loglike,  -9148.31
+FreeElections,Freedoms,g_res_norm,beta,      0.60
+FreeElections,Freedoms,g_res_norm,tstat,      0.78
+FreeElections,Freedoms,g_res_norm,AIC,  18427.61
+FreeElections,Freedoms,g_res_norm,loglike,  -9150.27
+FreeElections,Freedoms,W4+l_pwd_a,beta,      0.60
+FreeElections,Freedoms,W4+l_pwd_a,tstat,      0.78
+FreeElections,Freedoms,W4+l_pwd_a,AIC,   3123.59
+FreeElections,Freedoms,W4+l_pwd_a,loglike,  -1537.61
+FreeElections,Freedoms,W4+ln_pwd_g,beta,      0.60
+FreeElections,Freedoms,W4+ln_pwd_g,tstat,      0.78
+FreeElections,Freedoms,W4+ln_pwd_g,AIC,   3126.80
+FreeElections,Freedoms,W4+ln_pwd_g,loglike,  -1539.21
+FreeElections,Freedoms,W4+ln_pwd_m,beta,      0.60
+FreeElections,Freedoms,W4+ln_pwd_m,tstat,      0.78
+FreeElections,Freedoms,W4+ln_pwd_m,AIC,   3126.36
+FreeElections,Freedoms,W4+ln_pwd_m,loglike,  -1538.99
+FreeElections,Freedoms,W4+wb_urbpop,beta,      0.60
+FreeElections,Freedoms,W4+wb_urbpop,tstat,      0.78
+FreeElections,Freedoms,W4+wb_urbpop,AIC,  13575.79
+FreeElections,Freedoms,W4+wb_urbpop,loglike,  -6723.36
+FreeElections,Freedoms,W4+l_res_norm,beta,      0.60
+FreeElections,Freedoms,W4+l_res_norm,tstat,      0.78
+FreeElections,Freedoms,W4+l_res_norm,AIC,  13250.19
+FreeElections,Freedoms,W4+l_res_norm,loglike,  -6560.54
+FreeElections,Freedoms,W4+p_res_norm,beta,      0.60
+FreeElections,Freedoms,W4+p_res_norm,tstat,      0.78
+FreeElections,Freedoms,W4+p_res_norm,AIC,  13270.35
+FreeElections,Freedoms,W4+p_res_norm,loglike,  -6570.62
+FreeElections,Freedoms,W4+r_res_norm,beta,      0.60
+FreeElections,Freedoms,W4+r_res_norm,tstat,      0.78
+FreeElections,Freedoms,W4+r_res_norm,AIC,  13271.93
+FreeElections,Freedoms,W4+r_res_norm,loglike,  -6571.42
+FreeElections,Freedoms,W4+g_res_norm,beta,      0.60
+FreeElections,Freedoms,W4+g_res_norm,tstat,      0.78
+FreeElections,Freedoms,W4+g_res_norm,AIC,  13270.86
+FreeElections,Freedoms,W4+g_res_norm,loglike,  -6570.88
+FreeMovement,Freedoms,W4,beta,      0.54
+FreeMovement,Freedoms,W4,tstat,      7.76
+FreeMovement,Freedoms,W4,AIC, -13551.78
+FreeMovement,Freedoms,W4,loglike,   6839.32
+FreeMovement,Freedoms,l_pwd_a,beta,      0.03
+FreeMovement,Freedoms,l_pwd_a,tstat,      1.00
+FreeMovement,Freedoms,l_pwd_a,AIC, -10773.50
+FreeMovement,Freedoms,l_pwd_a,loglike,   5409.91
+FreeMovement,Freedoms,ln_pwd_g,beta,      0.13
+FreeMovement,Freedoms,ln_pwd_g,tstat,      0.32
+FreeMovement,Freedoms,ln_pwd_g,AIC, -10753.15
+FreeMovement,Freedoms,ln_pwd_g,loglike,   5399.74
+FreeMovement,Freedoms,ln_pwd_m,beta,      0.21
+FreeMovement,Freedoms,ln_pwd_m,tstat,      1.00
+FreeMovement,Freedoms,ln_pwd_m,AIC, -10766.81
+FreeMovement,Freedoms,ln_pwd_m,loglike,   5406.57
+FreeMovement,Freedoms,wb_urbpop,beta,      0.00
+FreeMovement,Freedoms,wb_urbpop,tstat,      2.18
+FreeMovement,Freedoms,wb_urbpop,AIC, -11088.37
+FreeMovement,Freedoms,wb_urbpop,loglike,   5607.62
+FreeMovement,Freedoms,l_res_norm,beta,     -0.26
+FreeMovement,Freedoms,l_res_norm,tstat,     -1.11
+FreeMovement,Freedoms,l_res_norm,AIC, -11872.16
+FreeMovement,Freedoms,l_res_norm,loglike,   5999.54
+FreeMovement,Freedoms,p_res_norm,beta,      0.16
+FreeMovement,Freedoms,p_res_norm,tstat,      1.42
+FreeMovement,Freedoms,p_res_norm,AIC, -11846.82
+FreeMovement,Freedoms,p_res_norm,loglike,   5986.87
+FreeMovement,Freedoms,r_res_norm,beta,     -0.18
+FreeMovement,Freedoms,r_res_norm,tstat,     -0.90
+FreeMovement,Freedoms,r_res_norm,AIC, -11797.83
+FreeMovement,Freedoms,r_res_norm,loglike,   5962.37
+FreeMovement,Freedoms,g_res_norm,beta,      0.17
+FreeMovement,Freedoms,g_res_norm,tstat,      1.56
+FreeMovement,Freedoms,g_res_norm,AIC, -11791.55
+FreeMovement,Freedoms,g_res_norm,loglike,   5959.23
+FreeMovement,Freedoms,W4+l_pwd_a,beta,      0.17
+FreeMovement,Freedoms,W4+l_pwd_a,tstat,      1.56
+FreeMovement,Freedoms,W4+l_pwd_a,AIC, -11036.94
+FreeMovement,Freedoms,W4+l_pwd_a,loglike,   5542.65
+FreeMovement,Freedoms,W4+ln_pwd_g,beta,      0.17
+FreeMovement,Freedoms,W4+ln_pwd_g,tstat,      1.56
+FreeMovement,Freedoms,W4+ln_pwd_g,AIC, -11014.55
+FreeMovement,Freedoms,W4+ln_pwd_g,loglike,   5531.45
+FreeMovement,Freedoms,W4+ln_pwd_m,beta,      0.17
+FreeMovement,Freedoms,W4+ln_pwd_m,tstat,      1.56
+FreeMovement,Freedoms,W4+ln_pwd_m,AIC, -11024.00
+FreeMovement,Freedoms,W4+ln_pwd_m,loglike,   5536.18
+FreeMovement,Freedoms,W4+wb_urbpop,beta,      0.17
+FreeMovement,Freedoms,W4+wb_urbpop,tstat,      1.56
+FreeMovement,Freedoms,W4+wb_urbpop,AIC, -13442.52
+FreeMovement,Freedoms,W4+wb_urbpop,loglike,   6785.71
+FreeMovement,Freedoms,W4+l_res_norm,beta,      0.17
+FreeMovement,Freedoms,W4+l_res_norm,tstat,      1.56
+FreeMovement,Freedoms,W4+l_res_norm,AIC, -14461.45
+FreeMovement,Freedoms,W4+l_res_norm,loglike,   7295.19
+FreeMovement,Freedoms,W4+p_res_norm,beta,      0.17
+FreeMovement,Freedoms,W4+p_res_norm,tstat,      1.56
+FreeMovement,Freedoms,W4+p_res_norm,AIC, -14426.08
+FreeMovement,Freedoms,W4+p_res_norm,loglike,   7277.51
+FreeMovement,Freedoms,W4+r_res_norm,beta,      0.17
+FreeMovement,Freedoms,W4+r_res_norm,tstat,      1.56
+FreeMovement,Freedoms,W4+r_res_norm,AIC, -14422.69
+FreeMovement,Freedoms,W4+r_res_norm,loglike,   7275.82
+FreeMovement,Freedoms,W4+g_res_norm,beta,      0.17
+FreeMovement,Freedoms,W4+g_res_norm,tstat,      1.56
+FreeMovement,Freedoms,W4+g_res_norm,AIC, -14426.06
+FreeMovement,Freedoms,W4+g_res_norm,loglike,   7277.50
+CivilLiberties,Freedoms,W4,beta,      1.22
+CivilLiberties,Freedoms,W4,tstat,     36.67
+CivilLiberties,Freedoms,W4,AIC, -20078.88
+CivilLiberties,Freedoms,W4,loglike,  10102.87
+CivilLiberties,Freedoms,l_pwd_a,beta,      0.00
+CivilLiberties,Freedoms,l_pwd_a,tstat,      0.03
+CivilLiberties,Freedoms,l_pwd_a,AIC,  -7628.78
+CivilLiberties,Freedoms,l_pwd_a,loglike,   3837.55
+CivilLiberties,Freedoms,ln_pwd_g,beta,      0.12
+CivilLiberties,Freedoms,ln_pwd_g,tstat,      0.27
+CivilLiberties,Freedoms,ln_pwd_g,AIC,  -7629.68
+CivilLiberties,Freedoms,ln_pwd_g,loglike,   3838.00
+CivilLiberties,Freedoms,ln_pwd_m,beta,      0.32
+CivilLiberties,Freedoms,ln_pwd_m,tstat,      0.99
+CivilLiberties,Freedoms,ln_pwd_m,AIC,  -7643.50
+CivilLiberties,Freedoms,ln_pwd_m,loglike,   3844.92
+CivilLiberties,Freedoms,wb_urbpop,beta,      0.00
+CivilLiberties,Freedoms,wb_urbpop,tstat,      3.01
+CivilLiberties,Freedoms,wb_urbpop,AIC,  -7306.13
+CivilLiberties,Freedoms,wb_urbpop,loglike,   3716.50
+CivilLiberties,Freedoms,l_res_norm,beta,     -0.41
+CivilLiberties,Freedoms,l_res_norm,tstat,     -2.93
+CivilLiberties,Freedoms,l_res_norm,AIC,  -7051.16
+CivilLiberties,Freedoms,l_res_norm,loglike,   3589.04
+CivilLiberties,Freedoms,p_res_norm,beta,      0.22
+CivilLiberties,Freedoms,p_res_norm,tstat,      1.83
+CivilLiberties,Freedoms,p_res_norm,AIC,  -6985.55
+CivilLiberties,Freedoms,p_res_norm,loglike,   3556.23
+CivilLiberties,Freedoms,r_res_norm,beta,     -0.29
+CivilLiberties,Freedoms,r_res_norm,tstat,     -1.78
+CivilLiberties,Freedoms,r_res_norm,AIC,  -6947.14
+CivilLiberties,Freedoms,r_res_norm,loglike,   3537.02
+CivilLiberties,Freedoms,g_res_norm,beta,      0.25
+CivilLiberties,Freedoms,g_res_norm,tstat,      1.43
+CivilLiberties,Freedoms,g_res_norm,AIC,  -6933.39
+CivilLiberties,Freedoms,g_res_norm,loglike,   3530.15
+CivilLiberties,Freedoms,W4+l_pwd_a,beta,      0.25
+CivilLiberties,Freedoms,W4+l_pwd_a,tstat,      1.43
+CivilLiberties,Freedoms,W4+l_pwd_a,AIC, -10834.79
+CivilLiberties,Freedoms,W4+l_pwd_a,loglike,   5441.57
+CivilLiberties,Freedoms,W4+ln_pwd_g,beta,      0.25
+CivilLiberties,Freedoms,W4+ln_pwd_g,tstat,      1.43
+CivilLiberties,Freedoms,W4+ln_pwd_g,AIC, -10836.10
+CivilLiberties,Freedoms,W4+ln_pwd_g,loglike,   5442.23
+CivilLiberties,Freedoms,W4+ln_pwd_m,beta,      0.25
+CivilLiberties,Freedoms,W4+ln_pwd_m,tstat,      1.43
+CivilLiberties,Freedoms,W4+ln_pwd_m,AIC, -10838.34
+CivilLiberties,Freedoms,W4+ln_pwd_m,loglike,   5443.35
+CivilLiberties,Freedoms,W4+wb_urbpop,beta,      0.25
+CivilLiberties,Freedoms,W4+wb_urbpop,tstat,      1.43
+CivilLiberties,Freedoms,W4+wb_urbpop,AIC, -20228.65
+CivilLiberties,Freedoms,W4+wb_urbpop,loglike,  10178.77
+CivilLiberties,Freedoms,W4+l_res_norm,beta,      0.25
+CivilLiberties,Freedoms,W4+l_res_norm,tstat,      1.43
+CivilLiberties,Freedoms,W4+l_res_norm,AIC, -19680.54
+CivilLiberties,Freedoms,W4+l_res_norm,loglike,   9904.74
+CivilLiberties,Freedoms,W4+p_res_norm,beta,      0.25
+CivilLiberties,Freedoms,W4+p_res_norm,tstat,      1.43
+CivilLiberties,Freedoms,W4+p_res_norm,AIC, -19560.66
+CivilLiberties,Freedoms,W4+p_res_norm,loglike,   9844.80
+CivilLiberties,Freedoms,W4+r_res_norm,beta,      0.25
+CivilLiberties,Freedoms,W4+r_res_norm,tstat,      1.43
+CivilLiberties,Freedoms,W4+r_res_norm,AIC, -19593.93
+CivilLiberties,Freedoms,W4+r_res_norm,loglike,   9861.43
+CivilLiberties,Freedoms,W4+g_res_norm,beta,      0.25
+CivilLiberties,Freedoms,W4+g_res_norm,tstat,      1.43
+CivilLiberties,Freedoms,W4+g_res_norm,AIC, -19606.53
+CivilLiberties,Freedoms,W4+g_res_norm,loglike,   9867.73
+PolRights,Freedoms,W4,beta,      6.80
+PolRights,Freedoms,W4,tstat,     21.98
+PolRights,Freedoms,W4,AIC,  16815.81
+PolRights,Freedoms,W4,loglike,  -8357.56
+PolRights,Freedoms,l_pwd_a,beta,      0.20
+PolRights,Freedoms,l_pwd_a,tstat,      0.96
+PolRights,Freedoms,l_pwd_a,AIC,   6002.17
+PolRights,Freedoms,l_pwd_a,loglike,  -2977.92
+PolRights,Freedoms,ln_pwd_g,beta,      3.65
+PolRights,Freedoms,ln_pwd_g,tstat,      1.26
+PolRights,Freedoms,ln_pwd_g,AIC,   5993.85
+PolRights,Freedoms,ln_pwd_g,loglike,  -2973.76
+PolRights,Freedoms,ln_pwd_m,beta,      3.01
+PolRights,Freedoms,ln_pwd_m,tstat,      1.54
+PolRights,Freedoms,ln_pwd_m,AIC,   5985.75
+PolRights,Freedoms,ln_pwd_m,loglike,  -2969.71
+PolRights,Freedoms,wb_urbpop,beta,      0.01
+PolRights,Freedoms,wb_urbpop,tstat,      0.79
+PolRights,Freedoms,wb_urbpop,AIC,  21640.65
+PolRights,Freedoms,wb_urbpop,loglike, -10769.98
+PolRights,Freedoms,l_res_norm,beta,     -3.42
+PolRights,Freedoms,l_res_norm,tstat,     -3.80
+PolRights,Freedoms,l_res_norm,AIC,  21271.34
+PolRights,Freedoms,l_res_norm,loglike, -10585.32
+PolRights,Freedoms,p_res_norm,beta,      1.21
+PolRights,Freedoms,p_res_norm,tstat,      1.92
+PolRights,Freedoms,p_res_norm,AIC,  21418.79
+PolRights,Freedoms,p_res_norm,loglike, -10659.04
+PolRights,Freedoms,r_res_norm,beta,     -1.55
+PolRights,Freedoms,r_res_norm,tstat,     -1.33
+PolRights,Freedoms,r_res_norm,AIC,  21441.52
+PolRights,Freedoms,r_res_norm,loglike, -10670.41
+PolRights,Freedoms,g_res_norm,beta,      0.50
+PolRights,Freedoms,g_res_norm,tstat,      0.28
+PolRights,Freedoms,g_res_norm,AIC,  21467.52
+PolRights,Freedoms,g_res_norm,loglike, -10683.41
+PolRights,Freedoms,W4+l_pwd_a,beta,      0.50
+PolRights,Freedoms,W4+l_pwd_a,tstat,      0.28
+PolRights,Freedoms,W4+l_pwd_a,AIC,   4895.37
+PolRights,Freedoms,W4+l_pwd_a,loglike,  -2423.51
+PolRights,Freedoms,W4+ln_pwd_g,beta,      0.50
+PolRights,Freedoms,W4+ln_pwd_g,tstat,      0.28
+PolRights,Freedoms,W4+ln_pwd_g,AIC,   4892.79
+PolRights,Freedoms,W4+ln_pwd_g,loglike,  -2422.21
+PolRights,Freedoms,W4+ln_pwd_m,beta,      0.50
+PolRights,Freedoms,W4+ln_pwd_m,tstat,      0.28
+PolRights,Freedoms,W4+ln_pwd_m,AIC,   4890.18
+PolRights,Freedoms,W4+ln_pwd_m,loglike,  -2420.91
+PolRights,Freedoms,W4+wb_urbpop,beta,      0.50
+PolRights,Freedoms,W4+wb_urbpop,tstat,      0.28
+PolRights,Freedoms,W4+wb_urbpop,AIC,  16581.45
+PolRights,Freedoms,W4+wb_urbpop,loglike,  -8239.36
+PolRights,Freedoms,W4+l_res_norm,beta,      0.50
+PolRights,Freedoms,W4+l_res_norm,tstat,      0.28
+PolRights,Freedoms,W4+l_res_norm,AIC,  16169.26
+PolRights,Freedoms,W4+l_res_norm,loglike,  -8033.27
+PolRights,Freedoms,W4+p_res_norm,beta,      0.50
+PolRights,Freedoms,W4+p_res_norm,tstat,      0.28
+PolRights,Freedoms,W4+p_res_norm,AIC,  16327.88
+PolRights,Freedoms,W4+p_res_norm,loglike,  -8112.57
+PolRights,Freedoms,W4+r_res_norm,beta,      0.50
+PolRights,Freedoms,W4+r_res_norm,tstat,      0.28
+PolRights,Freedoms,W4+r_res_norm,AIC,  16322.88
+PolRights,Freedoms,W4+r_res_norm,loglike,  -8110.08
+PolRights,Freedoms,W4+g_res_norm,beta,      0.50
+PolRights,Freedoms,W4+g_res_norm,tstat,      0.28
+PolRights,Freedoms,W4+g_res_norm,AIC,  16325.02
+PolRights,Freedoms,W4+g_res_norm,loglike,  -8111.15
+ReligiousFreedom,Freedoms,W4,beta,      2.98
+ReligiousFreedom,Freedoms,W4,tstat,      9.32
+ReligiousFreedom,Freedoms,W4,AIC,  15505.97
+ReligiousFreedom,Freedoms,W4,loglike,  -7689.56
+ReligiousFreedom,Freedoms,l_pwd_a,beta,     -0.08
+ReligiousFreedom,Freedoms,l_pwd_a,tstat,     -1.00
+ReligiousFreedom,Freedoms,l_pwd_a,AIC,   1232.06
+ReligiousFreedom,Freedoms,l_pwd_a,loglike,   -592.87
+ReligiousFreedom,Freedoms,ln_pwd_g,beta,     -0.32
+ReligiousFreedom,Freedoms,ln_pwd_g,tstat,     -0.33
+ReligiousFreedom,Freedoms,ln_pwd_g,AIC,   1236.02
+ReligiousFreedom,Freedoms,ln_pwd_g,loglike,   -594.85
+ReligiousFreedom,Freedoms,ln_pwd_m,beta,      0.66
+ReligiousFreedom,Freedoms,ln_pwd_m,tstat,      0.79
+ReligiousFreedom,Freedoms,ln_pwd_m,AIC,   1231.91
+ReligiousFreedom,Freedoms,ln_pwd_m,loglike,   -592.79
+ReligiousFreedom,Freedoms,wb_urbpop,beta,      0.02
+ReligiousFreedom,Freedoms,wb_urbpop,tstat,      3.28
+ReligiousFreedom,Freedoms,wb_urbpop,AIC,  17987.04
+ReligiousFreedom,Freedoms,wb_urbpop,loglike,  -8930.09
+ReligiousFreedom,Freedoms,l_res_norm,beta,     -0.87
+ReligiousFreedom,Freedoms,l_res_norm,tstat,     -0.74
+ReligiousFreedom,Freedoms,l_res_norm,AIC,  16909.03
+ReligiousFreedom,Freedoms,l_res_norm,loglike,  -8391.06
+ReligiousFreedom,Freedoms,p_res_norm,beta,      0.68
+ReligiousFreedom,Freedoms,p_res_norm,tstat,      1.07
+ReligiousFreedom,Freedoms,p_res_norm,AIC,  16895.55
+ReligiousFreedom,Freedoms,p_res_norm,loglike,  -8384.32
+ReligiousFreedom,Freedoms,r_res_norm,beta,     -1.42
+ReligiousFreedom,Freedoms,r_res_norm,tstat,     -1.87
+ReligiousFreedom,Freedoms,r_res_norm,AIC,  16860.98
+ReligiousFreedom,Freedoms,r_res_norm,loglike,  -8367.04
+ReligiousFreedom,Freedoms,g_res_norm,beta,      0.27
+ReligiousFreedom,Freedoms,g_res_norm,tstat,      0.40
+ReligiousFreedom,Freedoms,g_res_norm,AIC,  16955.89
+ReligiousFreedom,Freedoms,g_res_norm,loglike,  -8414.49
+ReligiousFreedom,Freedoms,W4+l_pwd_a,beta,      0.27
+ReligiousFreedom,Freedoms,W4+l_pwd_a,tstat,      0.40
+ReligiousFreedom,Freedoms,W4+l_pwd_a,AIC,    972.93
+ReligiousFreedom,Freedoms,W4+l_pwd_a,loglike,   -462.29
+ReligiousFreedom,Freedoms,W4+ln_pwd_g,beta,      0.27
+ReligiousFreedom,Freedoms,W4+ln_pwd_g,tstat,      0.40
+ReligiousFreedom,Freedoms,W4+ln_pwd_g,AIC,    976.57
+ReligiousFreedom,Freedoms,W4+ln_pwd_g,loglike,   -464.11
+ReligiousFreedom,Freedoms,W4+ln_pwd_m,beta,      0.27
+ReligiousFreedom,Freedoms,W4+ln_pwd_m,tstat,      0.40
+ReligiousFreedom,Freedoms,W4+ln_pwd_m,AIC,    976.74
+ReligiousFreedom,Freedoms,W4+ln_pwd_m,loglike,   -464.19
+ReligiousFreedom,Freedoms,W4+wb_urbpop,beta,      0.27
+ReligiousFreedom,Freedoms,W4+wb_urbpop,tstat,      0.40
+ReligiousFreedom,Freedoms,W4+wb_urbpop,AIC,  14703.85
+ReligiousFreedom,Freedoms,W4+wb_urbpop,loglike,  -7287.48
+ReligiousFreedom,Freedoms,W4+l_res_norm,beta,      0.27
+ReligiousFreedom,Freedoms,W4+l_res_norm,tstat,      0.40
+ReligiousFreedom,Freedoms,W4+l_res_norm,AIC,  13598.94
+ReligiousFreedom,Freedoms,W4+l_res_norm,loglike,  -6735.00
+ReligiousFreedom,Freedoms,W4+p_res_norm,beta,      0.27
+ReligiousFreedom,Freedoms,W4+p_res_norm,tstat,      0.40
+ReligiousFreedom,Freedoms,W4+p_res_norm,AIC,  13602.15
+ReligiousFreedom,Freedoms,W4+p_res_norm,loglike,  -6736.61
+ReligiousFreedom,Freedoms,W4+r_res_norm,beta,      0.27
+ReligiousFreedom,Freedoms,W4+r_res_norm,tstat,      0.40
+ReligiousFreedom,Freedoms,W4+r_res_norm,AIC,  13538.53
+ReligiousFreedom,Freedoms,W4+r_res_norm,loglike,  -6704.80
+ReligiousFreedom,Freedoms,W4+g_res_norm,beta,      0.27
+ReligiousFreedom,Freedoms,W4+g_res_norm,tstat,      0.40
+ReligiousFreedom,Freedoms,W4+g_res_norm,AIC,  13607.26
+ReligiousFreedom,Freedoms,W4+g_res_norm,loglike,  -6739.16
+JudicialIndep,Freedoms,W4,beta,      2.77
+JudicialIndep,Freedoms,W4,tstat,     10.56
+JudicialIndep,Freedoms,W4,AIC,  15375.57
+JudicialIndep,Freedoms,W4,loglike,  -7624.36
+JudicialIndep,Freedoms,l_pwd_a,beta,     -0.08
+JudicialIndep,Freedoms,l_pwd_a,tstat,     -0.82
+JudicialIndep,Freedoms,l_pwd_a,AIC,   3032.28
+JudicialIndep,Freedoms,l_pwd_a,loglike,  -1492.98
+JudicialIndep,Freedoms,ln_pwd_g,beta,     -0.86
+JudicialIndep,Freedoms,ln_pwd_g,tstat,     -0.53
+JudicialIndep,Freedoms,ln_pwd_g,AIC,   3032.82
+JudicialIndep,Freedoms,ln_pwd_g,loglike,  -1493.25
+JudicialIndep,Freedoms,ln_pwd_m,beta,     -0.41
+JudicialIndep,Freedoms,ln_pwd_m,tstat,     -0.35
+JudicialIndep,Freedoms,ln_pwd_m,AIC,   3033.86
+JudicialIndep,Freedoms,ln_pwd_m,loglike,  -1493.77
+JudicialIndep,Freedoms,wb_urbpop,beta,      0.01
+JudicialIndep,Freedoms,wb_urbpop,tstat,      2.29
+JudicialIndep,Freedoms,wb_urbpop,AIC,  17977.86
+JudicialIndep,Freedoms,wb_urbpop,loglike,  -8925.49
+JudicialIndep,Freedoms,l_res_norm,beta,     -1.17
+JudicialIndep,Freedoms,l_res_norm,tstat,     -1.86
+JudicialIndep,Freedoms,l_res_norm,AIC,  16573.48
+JudicialIndep,Freedoms,l_res_norm,loglike,  -8223.29
+JudicialIndep,Freedoms,p_res_norm,beta,      0.11
+JudicialIndep,Freedoms,p_res_norm,tstat,      0.30
+JudicialIndep,Freedoms,p_res_norm,AIC,  16667.08
+JudicialIndep,Freedoms,p_res_norm,loglike,  -8270.08
+JudicialIndep,Freedoms,r_res_norm,beta,     -1.47
+JudicialIndep,Freedoms,r_res_norm,tstat,     -3.07
+JudicialIndep,Freedoms,r_res_norm,AIC,  16560.27
+JudicialIndep,Freedoms,r_res_norm,loglike,  -8216.68
+JudicialIndep,Freedoms,g_res_norm,beta,      0.04
+JudicialIndep,Freedoms,g_res_norm,tstat,      0.04
+JudicialIndep,Freedoms,g_res_norm,AIC,  16668.57
+JudicialIndep,Freedoms,g_res_norm,loglike,  -8270.83
+JudicialIndep,Freedoms,W4+l_pwd_a,beta,      0.04
+JudicialIndep,Freedoms,W4+l_pwd_a,tstat,      0.04
+JudicialIndep,Freedoms,W4+l_pwd_a,AIC,   2084.09
+JudicialIndep,Freedoms,W4+l_pwd_a,loglike,  -1017.87
+JudicialIndep,Freedoms,W4+ln_pwd_g,beta,      0.04
+JudicialIndep,Freedoms,W4+ln_pwd_g,tstat,      0.04
+JudicialIndep,Freedoms,W4+ln_pwd_g,AIC,   2080.18
+JudicialIndep,Freedoms,W4+ln_pwd_g,loglike,  -1015.91
+JudicialIndep,Freedoms,W4+ln_pwd_m,beta,      0.04
+JudicialIndep,Freedoms,W4+ln_pwd_m,tstat,      0.04
+JudicialIndep,Freedoms,W4+ln_pwd_m,AIC,   2079.18
+JudicialIndep,Freedoms,W4+ln_pwd_m,loglike,  -1015.41
+JudicialIndep,Freedoms,W4+wb_urbpop,beta,      0.04
+JudicialIndep,Freedoms,W4+wb_urbpop,tstat,      0.04
+JudicialIndep,Freedoms,W4+wb_urbpop,AIC,  15132.15
+JudicialIndep,Freedoms,W4+wb_urbpop,loglike,  -7501.63
+JudicialIndep,Freedoms,W4+l_res_norm,beta,      0.04
+JudicialIndep,Freedoms,W4+l_res_norm,tstat,      0.04
+JudicialIndep,Freedoms,W4+l_res_norm,AIC,  13465.11
+JudicialIndep,Freedoms,W4+l_res_norm,loglike,  -6668.08
+JudicialIndep,Freedoms,W4+p_res_norm,beta,      0.04
+JudicialIndep,Freedoms,W4+p_res_norm,tstat,      0.04
+JudicialIndep,Freedoms,W4+p_res_norm,AIC,  13471.80
+JudicialIndep,Freedoms,W4+p_res_norm,loglike,  -6671.43
+JudicialIndep,Freedoms,W4+r_res_norm,beta,      0.04
+JudicialIndep,Freedoms,W4+r_res_norm,tstat,      0.04
+JudicialIndep,Freedoms,W4+r_res_norm,AIC,  13424.10
+JudicialIndep,Freedoms,W4+r_res_norm,loglike,  -6647.58
+JudicialIndep,Freedoms,W4+g_res_norm,beta,      0.04
+JudicialIndep,Freedoms,W4+g_res_norm,tstat,      0.04
+JudicialIndep,Freedoms,W4+g_res_norm,AIC,  13499.18
+JudicialIndep,Freedoms,W4+g_res_norm,loglike,  -6685.12
+PropertyRights,Freedoms,W4,beta,      0.49
+PropertyRights,Freedoms,W4,tstat,      7.66
+PropertyRights,Freedoms,W4,AIC, -16783.90
+PropertyRights,Freedoms,W4,loglike,   8455.38
+PropertyRights,Freedoms,l_pwd_a,beta,     -0.00
+PropertyRights,Freedoms,l_pwd_a,tstat,     -0.13
+PropertyRights,Freedoms,l_pwd_a,AIC, -12252.33
+PropertyRights,Freedoms,l_pwd_a,loglike,   6149.33
+PropertyRights,Freedoms,ln_pwd_g,beta,     -0.31
+PropertyRights,Freedoms,ln_pwd_g,tstat,     -1.16
+PropertyRights,Freedoms,ln_pwd_g,AIC, -12276.00
+PropertyRights,Freedoms,ln_pwd_g,loglike,   6161.16
+PropertyRights,Freedoms,ln_pwd_m,beta,     -0.17
+PropertyRights,Freedoms,ln_pwd_m,tstat,     -1.09
+PropertyRights,Freedoms,ln_pwd_m,AIC, -12268.14
+PropertyRights,Freedoms,ln_pwd_m,loglike,   6157.23
+PropertyRights,Freedoms,wb_urbpop,beta,      0.00
+PropertyRights,Freedoms,wb_urbpop,tstat,      2.43
+PropertyRights,Freedoms,wb_urbpop,AIC, -14223.89
+PropertyRights,Freedoms,wb_urbpop,loglike,   7175.38
+PropertyRights,Freedoms,l_res_norm,beta,     -0.23
+PropertyRights,Freedoms,l_res_norm,tstat,     -1.20
+PropertyRights,Freedoms,l_res_norm,AIC, -14165.86
+PropertyRights,Freedoms,l_res_norm,loglike,   7146.38
+PropertyRights,Freedoms,p_res_norm,beta,      0.18
+PropertyRights,Freedoms,p_res_norm,tstat,      1.94
+PropertyRights,Freedoms,p_res_norm,AIC, -14190.13
+PropertyRights,Freedoms,p_res_norm,loglike,   7158.52
+PropertyRights,Freedoms,r_res_norm,beta,     -0.22
+PropertyRights,Freedoms,r_res_norm,tstat,     -1.67
+PropertyRights,Freedoms,r_res_norm,AIC, -14124.03
+PropertyRights,Freedoms,r_res_norm,loglike,   7125.47
+PropertyRights,Freedoms,g_res_norm,beta,      0.21
+PropertyRights,Freedoms,g_res_norm,tstat,      1.46
+PropertyRights,Freedoms,g_res_norm,AIC, -14118.76
+PropertyRights,Freedoms,g_res_norm,loglike,   7122.83
+PropertyRights,Freedoms,W4+l_pwd_a,beta,      0.21
+PropertyRights,Freedoms,W4+l_pwd_a,tstat,      1.46
+PropertyRights,Freedoms,W4+l_pwd_a,AIC, -12430.60
+PropertyRights,Freedoms,W4+l_pwd_a,loglike,   6239.48
+PropertyRights,Freedoms,W4+ln_pwd_g,beta,      0.21
+PropertyRights,Freedoms,W4+ln_pwd_g,tstat,      1.46
+PropertyRights,Freedoms,W4+ln_pwd_g,AIC, -12460.99
+PropertyRights,Freedoms,W4+ln_pwd_g,loglike,   6254.67
+PropertyRights,Freedoms,W4+ln_pwd_m,beta,      0.21
+PropertyRights,Freedoms,W4+ln_pwd_m,tstat,      1.46
+PropertyRights,Freedoms,W4+ln_pwd_m,AIC, -12454.32
+PropertyRights,Freedoms,W4+ln_pwd_m,loglike,   6251.34
+PropertyRights,Freedoms,W4+wb_urbpop,beta,      0.21
+PropertyRights,Freedoms,W4+wb_urbpop,tstat,      1.46
+PropertyRights,Freedoms,W4+wb_urbpop,AIC, -16778.32
+PropertyRights,Freedoms,W4+wb_urbpop,loglike,   8453.60
+PropertyRights,Freedoms,W4+l_res_norm,beta,      0.21
+PropertyRights,Freedoms,W4+l_res_norm,tstat,      1.46
+PropertyRights,Freedoms,W4+l_res_norm,AIC, -16910.64
+PropertyRights,Freedoms,W4+l_res_norm,loglike,   8519.79
+PropertyRights,Freedoms,W4+p_res_norm,beta,      0.21
+PropertyRights,Freedoms,W4+p_res_norm,tstat,      1.46
+PropertyRights,Freedoms,W4+p_res_norm,AIC, -16906.67
+PropertyRights,Freedoms,W4+p_res_norm,loglike,   8517.80
+PropertyRights,Freedoms,W4+r_res_norm,beta,      0.21
+PropertyRights,Freedoms,W4+r_res_norm,tstat,      1.46
+PropertyRights,Freedoms,W4+r_res_norm,AIC, -16900.18
+PropertyRights,Freedoms,W4+r_res_norm,loglike,   8514.56
+PropertyRights,Freedoms,W4+g_res_norm,beta,      0.21
+PropertyRights,Freedoms,W4+g_res_norm,tstat,      1.46
+PropertyRights,Freedoms,W4+g_res_norm,AIC, -16909.45
+PropertyRights,Freedoms,W4+g_res_norm,loglike,   8519.19
+MediaCensored,Abuse,W4,beta,      5.07
+MediaCensored,Abuse,W4,tstat,     21.21
+MediaCensored,Abuse,W4,AIC,  17166.88
+MediaCensored,Abuse,W4,loglike,  -8520.02
+MediaCensored,Abuse,l_pwd_a,beta,      0.10
+MediaCensored,Abuse,l_pwd_a,tstat,      0.68
+MediaCensored,Abuse,l_pwd_a,AIC,   4768.05
+MediaCensored,Abuse,l_pwd_a,loglike,  -2360.86
+MediaCensored,Abuse,ln_pwd_g,beta,      1.48
+MediaCensored,Abuse,ln_pwd_g,tstat,      0.65
+MediaCensored,Abuse,ln_pwd_g,AIC,   4767.03
+MediaCensored,Abuse,ln_pwd_g,loglike,  -2360.35
+MediaCensored,Abuse,ln_pwd_m,beta,      1.64
+MediaCensored,Abuse,ln_pwd_m,tstat,      1.04
+MediaCensored,Abuse,ln_pwd_m,AIC,   4760.61
+MediaCensored,Abuse,ln_pwd_m,loglike,  -2357.14
+MediaCensored,Abuse,wb_urbpop,beta,      0.02
+MediaCensored,Abuse,wb_urbpop,tstat,      2.06
+MediaCensored,Abuse,wb_urbpop,AIC,  23377.06
+MediaCensored,Abuse,wb_urbpop,loglike, -11625.10
+MediaCensored,Abuse,l_res_norm,beta,     -1.96
+MediaCensored,Abuse,l_res_norm,tstat,     -3.05
+MediaCensored,Abuse,l_res_norm,AIC,  22069.13
+MediaCensored,Abuse,l_res_norm,loglike, -10971.11
+MediaCensored,Abuse,p_res_norm,beta,      1.08
+MediaCensored,Abuse,p_res_norm,tstat,      1.85
+MediaCensored,Abuse,p_res_norm,AIC,  22125.09
+MediaCensored,Abuse,p_res_norm,loglike, -10999.09
+MediaCensored,Abuse,r_res_norm,beta,     -1.28
+MediaCensored,Abuse,r_res_norm,tstat,     -1.27
+MediaCensored,Abuse,r_res_norm,AIC,  22168.60
+MediaCensored,Abuse,r_res_norm,loglike, -11020.85
+MediaCensored,Abuse,g_res_norm,beta,      0.90
+MediaCensored,Abuse,g_res_norm,tstat,      1.00
+MediaCensored,Abuse,g_res_norm,AIC,  22190.72
+MediaCensored,Abuse,g_res_norm,loglike, -11031.91
+MediaCensored,Abuse,W4+l_pwd_a,beta,      0.90
+MediaCensored,Abuse,W4+l_pwd_a,tstat,      1.00
+MediaCensored,Abuse,W4+l_pwd_a,AIC,   3306.17
+MediaCensored,Abuse,W4+l_pwd_a,loglike,  -1628.91
+MediaCensored,Abuse,W4+ln_pwd_g,beta,      0.90
+MediaCensored,Abuse,W4+ln_pwd_g,tstat,      1.00
+MediaCensored,Abuse,W4+ln_pwd_g,AIC,   3308.32
+MediaCensored,Abuse,W4+ln_pwd_g,loglike,  -1629.98
+MediaCensored,Abuse,W4+ln_pwd_m,beta,      0.90
+MediaCensored,Abuse,W4+ln_pwd_m,tstat,      1.00
+MediaCensored,Abuse,W4+ln_pwd_m,AIC,   3306.69
+MediaCensored,Abuse,W4+ln_pwd_m,loglike,  -1629.17
+MediaCensored,Abuse,W4+wb_urbpop,beta,      0.90
+MediaCensored,Abuse,W4+wb_urbpop,tstat,      1.00
+MediaCensored,Abuse,W4+wb_urbpop,AIC,  16821.31
+MediaCensored,Abuse,W4+wb_urbpop,loglike,  -8346.21
+MediaCensored,Abuse,W4+l_res_norm,beta,      0.90
+MediaCensored,Abuse,W4+l_res_norm,tstat,      1.00
+MediaCensored,Abuse,W4+l_res_norm,AIC,  15700.39
+MediaCensored,Abuse,W4+l_res_norm,loglike,  -7785.73
+MediaCensored,Abuse,W4+p_res_norm,beta,      0.90
+MediaCensored,Abuse,W4+p_res_norm,tstat,      1.00
+MediaCensored,Abuse,W4+p_res_norm,AIC,  15768.84
+MediaCensored,Abuse,W4+p_res_norm,loglike,  -7819.95
+MediaCensored,Abuse,W4+r_res_norm,beta,      0.90
+MediaCensored,Abuse,W4+r_res_norm,tstat,      1.00
+MediaCensored,Abuse,W4+r_res_norm,AIC,  15758.02
+MediaCensored,Abuse,W4+r_res_norm,loglike,  -7814.54
+MediaCensored,Abuse,W4+g_res_norm,beta,      0.90
+MediaCensored,Abuse,W4+g_res_norm,tstat,      1.00
+MediaCensored,Abuse,W4+g_res_norm,AIC,  15765.34
+MediaCensored,Abuse,W4+g_res_norm,loglike,  -7818.20
+PackCourts,Abuse,W4,beta,     -1.75
+PackCourts,Abuse,W4,tstat,     -7.17
+PackCourts,Abuse,W4,AIC,  17222.51
+PackCourts,Abuse,W4,loglike,  -8547.83
+PackCourts,Abuse,l_pwd_a,beta,      0.02
+PackCourts,Abuse,l_pwd_a,tstat,      0.14
+PackCourts,Abuse,l_pwd_a,AIC,   3329.98
+PackCourts,Abuse,l_pwd_a,loglike,  -1641.82
+PackCourts,Abuse,ln_pwd_g,beta,      1.24
+PackCourts,Abuse,ln_pwd_g,tstat,      0.61
+PackCourts,Abuse,ln_pwd_g,AIC,   3326.19
+PackCourts,Abuse,ln_pwd_g,loglike,  -1639.93
+PackCourts,Abuse,ln_pwd_m,beta,      1.16
+PackCourts,Abuse,ln_pwd_m,tstat,      0.96
+PackCourts,Abuse,ln_pwd_m,AIC,   3322.42
+PackCourts,Abuse,ln_pwd_m,loglike,  -1638.04
+PackCourts,Abuse,wb_urbpop,beta,      0.00
+PackCourts,Abuse,wb_urbpop,tstat,      0.48
+PackCourts,Abuse,wb_urbpop,AIC,  18015.02
+PackCourts,Abuse,wb_urbpop,loglike,  -8944.08
+PackCourts,Abuse,l_res_norm,beta,      0.67
+PackCourts,Abuse,l_res_norm,tstat,      0.74
+PackCourts,Abuse,l_res_norm,AIC,  17163.12
+PackCourts,Abuse,l_res_norm,loglike,  -8518.11
+PackCourts,Abuse,p_res_norm,beta,      0.15
+PackCourts,Abuse,p_res_norm,tstat,      0.45
+PackCourts,Abuse,p_res_norm,AIC,  17189.50
+PackCourts,Abuse,p_res_norm,loglike,  -8531.29
+PackCourts,Abuse,r_res_norm,beta,      1.65
+PackCourts,Abuse,r_res_norm,tstat,      2.64
+PackCourts,Abuse,r_res_norm,AIC,  17064.45
+PackCourts,Abuse,r_res_norm,loglike,  -8468.77
+PackCourts,Abuse,g_res_norm,beta,      0.57
+PackCourts,Abuse,g_res_norm,tstat,      0.93
+PackCourts,Abuse,g_res_norm,AIC,  17176.76
+PackCourts,Abuse,g_res_norm,loglike,  -8524.93
+PackCourts,Abuse,W4+l_pwd_a,beta,      0.57
+PackCourts,Abuse,W4+l_pwd_a,tstat,      0.93
+PackCourts,Abuse,W4+l_pwd_a,AIC,   3034.74
+PackCourts,Abuse,W4+l_pwd_a,loglike,  -1493.19
+PackCourts,Abuse,W4+ln_pwd_g,beta,      0.57
+PackCourts,Abuse,W4+ln_pwd_g,tstat,      0.93
+PackCourts,Abuse,W4+ln_pwd_g,AIC,   3027.51
+PackCourts,Abuse,W4+ln_pwd_g,loglike,  -1489.58
+PackCourts,Abuse,W4+ln_pwd_m,beta,      0.57
+PackCourts,Abuse,W4+ln_pwd_m,tstat,      0.93
+PackCourts,Abuse,W4+ln_pwd_m,AIC,   3019.68
+PackCourts,Abuse,W4+ln_pwd_m,loglike,  -1485.66
+PackCourts,Abuse,W4+wb_urbpop,beta,      0.57
+PackCourts,Abuse,W4+wb_urbpop,tstat,      0.93
+PackCourts,Abuse,W4+wb_urbpop,AIC,  16970.77
+PackCourts,Abuse,W4+wb_urbpop,loglike,  -8420.94
+PackCourts,Abuse,W4+l_res_norm,beta,      0.57
+PackCourts,Abuse,W4+l_res_norm,tstat,      0.93
+PackCourts,Abuse,W4+l_res_norm,AIC,  16109.70
+PackCourts,Abuse,W4+l_res_norm,loglike,  -7990.38
+PackCourts,Abuse,W4+p_res_norm,beta,      0.57
+PackCourts,Abuse,W4+p_res_norm,tstat,      0.93
+PackCourts,Abuse,W4+p_res_norm,AIC,  16084.22
+PackCourts,Abuse,W4+p_res_norm,loglike,  -7977.64
+PackCourts,Abuse,W4+r_res_norm,beta,      0.57
+PackCourts,Abuse,W4+r_res_norm,tstat,      0.93
+PackCourts,Abuse,W4+r_res_norm,AIC,  16015.56
+PackCourts,Abuse,W4+r_res_norm,loglike,  -7943.31
+PackCourts,Abuse,W4+g_res_norm,beta,      0.57
+PackCourts,Abuse,W4+g_res_norm,tstat,      0.93
+PackCourts,Abuse,W4+g_res_norm,AIC,  16086.41
+PackCourts,Abuse,W4+g_res_norm,loglike,  -7978.73
+PublicGood,EndogPublicGoods,W4+ln_pwd_a,betaw,
+PublicGood,EndogPublicGoods,W4+ln_pwd_a,betap,
+PublicGood,EndogPublicGoods,W4+ln_pwd_a,tstatw,
+PublicGood,EndogPublicGoods,W4+ln_pwd_a,tstatp,
+PublicGood,EndogPublicGoods,W4+ln_pwd_a,AIC, -15649.93
+PublicGood,EndogPublicGoods,W4+ln_pwd_a,loglike,   7849.14
+PublicGood,EndogPublicGoods,W4+ln_pwd_g,betaw,
+PublicGood,EndogPublicGoods,W4+ln_pwd_g,betap,
+PublicGood,EndogPublicGoods,W4+ln_pwd_g,tstatw,
+PublicGood,EndogPublicGoods,W4+ln_pwd_g,tstatp,
+PublicGood,EndogPublicGoods,W4+ln_pwd_g,AIC, -15639.97
+PublicGood,EndogPublicGoods,W4+ln_pwd_g,loglike,   7844.17
+PublicGood,EndogPublicGoods,W4+ln_pwd_m,betaw,
+PublicGood,EndogPublicGoods,W4+ln_pwd_m,betap,
+PublicGood,EndogPublicGoods,W4+ln_pwd_m,tstatw,
+PublicGood,EndogPublicGoods,W4+ln_pwd_m,tstatp,
+PublicGood,EndogPublicGoods,W4+ln_pwd_m,AIC, -15645.82
+PublicGood,EndogPublicGoods,W4+ln_pwd_m,loglike,   7847.09
+PublicGood,EndogPublicGoods,W4+wb_urbpop,betaw,
+PublicGood,EndogPublicGoods,W4+wb_urbpop,betap,
+PublicGood,EndogPublicGoods,W4+wb_urbpop,tstatw,
+PublicGood,EndogPublicGoods,W4+wb_urbpop,tstatp,
+PublicGood,EndogPublicGoods,W4+wb_urbpop,AIC, -24625.01
+PublicGood,EndogPublicGoods,W4+wb_urbpop,loglike,  12376.95
+PublicGood,EndogPublicGoods,W4+l_res_norm,betaw,
+PublicGood,EndogPublicGoods,W4+l_res_norm,betap,
+PublicGood,EndogPublicGoods,W4+l_res_norm,tstatw,
+PublicGood,EndogPublicGoods,W4+l_res_norm,tstatp,
+PublicGood,EndogPublicGoods,W4+l_res_norm,AIC, -25233.46
+PublicGood,EndogPublicGoods,W4+l_res_norm,loglike,  12681.20
+PublicGood,EndogPublicGoods,W4+p_res_norm,betaw,
+PublicGood,EndogPublicGoods,W4+p_res_norm,betap,
+PublicGood,EndogPublicGoods,W4+p_res_norm,tstatw,
+PublicGood,EndogPublicGoods,W4+p_res_norm,tstatp,
+PublicGood,EndogPublicGoods,W4+p_res_norm,AIC, -25089.00
+PublicGood,EndogPublicGoods,W4+p_res_norm,loglike,  12608.97
+PublicGood,EndogPublicGoods,W4+r_res_norm,betaw,
+PublicGood,EndogPublicGoods,W4+r_res_norm,betap,
+PublicGood,EndogPublicGoods,W4+r_res_norm,tstatw,
+PublicGood,EndogPublicGoods,W4+r_res_norm,tstatp,
+PublicGood,EndogPublicGoods,W4+r_res_norm,AIC, -25098.50
+PublicGood,EndogPublicGoods,W4+r_res_norm,loglike,  12613.72
+PublicGood,EndogPublicGoods,W4+g_res_norm,betaw,
+PublicGood,EndogPublicGoods,W4+g_res_norm,betap,
+PublicGood,EndogPublicGoods,W4+g_res_norm,tstatw,
+PublicGood,EndogPublicGoods,W4+g_res_norm,tstatp,
+PublicGood,EndogPublicGoods,W4+g_res_norm,AIC, -25135.02
+PublicGood,EndogPublicGoods,W4+g_res_norm,loglike,  12631.98
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_a,betaw,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_a,betap,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_a,tstatw,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_a,tstatp,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_a,AIC, -17391.53
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_a,loglike,   8719.94
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_g,betaw,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_g,betap,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_g,tstatw,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_g,tstatp,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_g,AIC, -17388.18
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_g,loglike,   8718.27
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_m,betaw,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_m,betap,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_m,tstatw,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_m,tstatp,
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_m,AIC, -17388.97
+GoodsRatio,EndogPublicGoods,W4+ln_pwd_m,loglike,   8718.66
+GoodsRatio,EndogPublicGoods,W4+wb_urbpop,betaw,
+GoodsRatio,EndogPublicGoods,W4+wb_urbpop,betap,
+GoodsRatio,EndogPublicGoods,W4+wb_urbpop,tstatw,
+GoodsRatio,EndogPublicGoods,W4+wb_urbpop,tstatp,
+GoodsRatio,EndogPublicGoods,W4+wb_urbpop,AIC, -29204.46
+GoodsRatio,EndogPublicGoods,W4+wb_urbpop,loglike,  14666.68
+GoodsRatio,EndogPublicGoods,W4+l_res_norm,betaw,
+GoodsRatio,EndogPublicGoods,W4+l_res_norm,betap,
+GoodsRatio,EndogPublicGoods,W4+l_res_norm,tstatw,
+GoodsRatio,EndogPublicGoods,W4+l_res_norm,tstatp,
+GoodsRatio,EndogPublicGoods,W4+l_res_norm,AIC, -29626.32
+GoodsRatio,EndogPublicGoods,W4+l_res_norm,loglike,  14877.63
+GoodsRatio,EndogPublicGoods,W4+p_res_norm,betaw,
+GoodsRatio,EndogPublicGoods,W4+p_res_norm,betap,
+GoodsRatio,EndogPublicGoods,W4+p_res_norm,tstatw,
+GoodsRatio,EndogPublicGoods,W4+p_res_norm,tstatp,
+GoodsRatio,EndogPublicGoods,W4+p_res_norm,AIC, -29667.09
+GoodsRatio,EndogPublicGoods,W4+p_res_norm,loglike,  14898.02
+GoodsRatio,EndogPublicGoods,W4+r_res_norm,betaw,
+GoodsRatio,EndogPublicGoods,W4+r_res_norm,betap,
+GoodsRatio,EndogPublicGoods,W4+r_res_norm,tstatw,
+GoodsRatio,EndogPublicGoods,W4+r_res_norm,tstatp,
+GoodsRatio,EndogPublicGoods,W4+r_res_norm,AIC, -29622.79
+GoodsRatio,EndogPublicGoods,W4+r_res_norm,loglike,  14875.86
+GoodsRatio,EndogPublicGoods,W4+g_res_norm,betaw,
+GoodsRatio,EndogPublicGoods,W4+g_res_norm,betap,
+GoodsRatio,EndogPublicGoods,W4+g_res_norm,tstatw,
+GoodsRatio,EndogPublicGoods,W4+g_res_norm,tstatp,
+GoodsRatio,EndogPublicGoods,W4+g_res_norm,AIC, -29593.72
+GoodsRatio,EndogPublicGoods,W4+g_res_norm,loglike,  14861.33
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_a,betaw,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_a,betap,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_a,tstatw,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_a,tstatp,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_a,AIC,   1973.28
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_a,loglike,   -962.46
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_g,betaw,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_g,betap,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_g,tstatw,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_g,tstatp,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_g,AIC,   1959.45
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_g,loglike,   -955.55
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_m,betaw,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_m,betap,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_m,tstatw,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_m,tstatp,
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_m,AIC,   1960.37
+PrivateorPublicGoods,EndogPublicGoods,W4+ln_pwd_m,loglike,   -956.00
+PrivateorPublicGoods,EndogPublicGoods,W4+wb_urbpop,betaw,
+PrivateorPublicGoods,EndogPublicGoods,W4+wb_urbpop,betap,
+PrivateorPublicGoods,EndogPublicGoods,W4+wb_urbpop,tstatw,
+PrivateorPublicGoods,EndogPublicGoods,W4+wb_urbpop,tstatp,
+PrivateorPublicGoods,EndogPublicGoods,W4+wb_urbpop,AIC,  17371.26
+PrivateorPublicGoods,EndogPublicGoods,W4+wb_urbpop,loglike,  -8621.18
+PrivateorPublicGoods,EndogPublicGoods,W4+l_res_norm,betaw,
+PrivateorPublicGoods,EndogPublicGoods,W4+l_res_norm,betap,
+PrivateorPublicGoods,EndogPublicGoods,W4+l_res_norm,tstatw,
+PrivateorPublicGoods,EndogPublicGoods,W4+l_res_norm,tstatp,
+PrivateorPublicGoods,EndogPublicGoods,W4+l_res_norm,AIC,  15415.31
+PrivateorPublicGoods,EndogPublicGoods,W4+l_res_norm,loglike,  -7643.19
+PrivateorPublicGoods,EndogPublicGoods,W4+p_res_norm,betaw,
+PrivateorPublicGoods,EndogPublicGoods,W4+p_res_norm,betap,
+PrivateorPublicGoods,EndogPublicGoods,W4+p_res_norm,tstatw,
+PrivateorPublicGoods,EndogPublicGoods,W4+p_res_norm,tstatp,
+PrivateorPublicGoods,EndogPublicGoods,W4+p_res_norm,AIC,  15501.43
+PrivateorPublicGoods,EndogPublicGoods,W4+p_res_norm,loglike,  -7686.25
+PrivateorPublicGoods,EndogPublicGoods,W4+r_res_norm,betaw,
+PrivateorPublicGoods,EndogPublicGoods,W4+r_res_norm,betap,
+PrivateorPublicGoods,EndogPublicGoods,W4+r_res_norm,tstatw,
+PrivateorPublicGoods,EndogPublicGoods,W4+r_res_norm,tstatp,
+PrivateorPublicGoods,EndogPublicGoods,W4+r_res_norm,AIC,  15503.62
+PrivateorPublicGoods,EndogPublicGoods,W4+r_res_norm,loglike,  -7687.34
+PrivateorPublicGoods,EndogPublicGoods,W4+g_res_norm,betaw,
+PrivateorPublicGoods,EndogPublicGoods,W4+g_res_norm,betap,
+PrivateorPublicGoods,EndogPublicGoods,W4+g_res_norm,tstatw,
+PrivateorPublicGoods,EndogPublicGoods,W4+g_res_norm,tstatp,
+PrivateorPublicGoods,EndogPublicGoods,W4+g_res_norm,AIC,  15498.71
+PrivateorPublicGoods,EndogPublicGoods,W4+g_res_norm,loglike,  -7684.89
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,betaw,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,betap,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,tstatw,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,tstatp,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,AIC,   2406.77
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,loglike,  -1179.21
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,betaw,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,betap,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,tstatw,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,tstatp,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,AIC,   2404.34
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,loglike,  -1177.99
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,betaw,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,betap,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,tstatw,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,tstatp,
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,AIC,   2410.30
+EliteWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,loglike,  -1180.97
+EliteWantCommonGood,EndogPublicGoods,W4+wb_urbpop,betaw,
+EliteWantCommonGood,EndogPublicGoods,W4+wb_urbpop,betap,
+EliteWantCommonGood,EndogPublicGoods,W4+wb_urbpop,tstatw,
+EliteWantCommonGood,EndogPublicGoods,W4+wb_urbpop,tstatp,
+EliteWantCommonGood,EndogPublicGoods,W4+wb_urbpop,AIC,  16401.64
+EliteWantCommonGood,EndogPublicGoods,W4+wb_urbpop,loglike,  -8136.37
+EliteWantCommonGood,EndogPublicGoods,W4+l_res_norm,betaw,
+EliteWantCommonGood,EndogPublicGoods,W4+l_res_norm,betap,
+EliteWantCommonGood,EndogPublicGoods,W4+l_res_norm,tstatw,
+EliteWantCommonGood,EndogPublicGoods,W4+l_res_norm,tstatp,
+EliteWantCommonGood,EndogPublicGoods,W4+l_res_norm,AIC,  13813.15
+EliteWantCommonGood,EndogPublicGoods,W4+l_res_norm,loglike,  -6842.11
+EliteWantCommonGood,EndogPublicGoods,W4+p_res_norm,betaw,
+EliteWantCommonGood,EndogPublicGoods,W4+p_res_norm,betap,
+EliteWantCommonGood,EndogPublicGoods,W4+p_res_norm,tstatw,
+EliteWantCommonGood,EndogPublicGoods,W4+p_res_norm,tstatp,
+EliteWantCommonGood,EndogPublicGoods,W4+p_res_norm,AIC,  13778.79
+EliteWantCommonGood,EndogPublicGoods,W4+p_res_norm,loglike,  -6824.93
+EliteWantCommonGood,EndogPublicGoods,W4+r_res_norm,betaw,
+EliteWantCommonGood,EndogPublicGoods,W4+r_res_norm,betap,
+EliteWantCommonGood,EndogPublicGoods,W4+r_res_norm,tstatw,
+EliteWantCommonGood,EndogPublicGoods,W4+r_res_norm,tstatp,
+EliteWantCommonGood,EndogPublicGoods,W4+r_res_norm,AIC,  13729.63
+EliteWantCommonGood,EndogPublicGoods,W4+r_res_norm,loglike,  -6800.35
+EliteWantCommonGood,EndogPublicGoods,W4+g_res_norm,betaw,
+EliteWantCommonGood,EndogPublicGoods,W4+g_res_norm,betap,
+EliteWantCommonGood,EndogPublicGoods,W4+g_res_norm,tstatw,
+EliteWantCommonGood,EndogPublicGoods,W4+g_res_norm,tstatp,
+EliteWantCommonGood,EndogPublicGoods,W4+g_res_norm,AIC,  13786.46
+EliteWantCommonGood,EndogPublicGoods,W4+g_res_norm,loglike,  -6828.76
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,betaw,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,betap,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,tstatw,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,tstatp,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,AIC,   2625.23
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_a,loglike,  -1288.44
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,betaw,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,betap,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,tstatw,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,tstatp,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,AIC,   2599.58
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_g,loglike,  -1275.61
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,betaw,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,betap,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,tstatw,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,tstatp,
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,AIC,   2629.09
+PublicWantCommonGood,EndogPublicGoods,W4+ln_pwd_m,loglike,  -1290.37
+PublicWantCommonGood,EndogPublicGoods,W4+wb_urbpop,betaw,
+PublicWantCommonGood,EndogPublicGoods,W4+wb_urbpop,betap,
+PublicWantCommonGood,EndogPublicGoods,W4+wb_urbpop,tstatw,
+PublicWantCommonGood,EndogPublicGoods,W4+wb_urbpop,tstatp,
+PublicWantCommonGood,EndogPublicGoods,W4+wb_urbpop,AIC,  15241.14
+PublicWantCommonGood,EndogPublicGoods,W4+wb_urbpop,loglike,  -7556.13
+PublicWantCommonGood,EndogPublicGoods,W4+l_res_norm,betaw,
+PublicWantCommonGood,EndogPublicGoods,W4+l_res_norm,betap,
+PublicWantCommonGood,EndogPublicGoods,W4+l_res_norm,tstatw,
+PublicWantCommonGood,EndogPublicGoods,W4+l_res_norm,tstatp,
+PublicWantCommonGood,EndogPublicGoods,W4+l_res_norm,AIC,  13800.05
+PublicWantCommonGood,EndogPublicGoods,W4+l_res_norm,loglike,  -6835.56
+PublicWantCommonGood,EndogPublicGoods,W4+p_res_norm,betaw,
+PublicWantCommonGood,EndogPublicGoods,W4+p_res_norm,betap,
+PublicWantCommonGood,EndogPublicGoods,W4+p_res_norm,tstatw,
+PublicWantCommonGood,EndogPublicGoods,W4+p_res_norm,tstatp,
+PublicWantCommonGood,EndogPublicGoods,W4+p_res_norm,AIC,  13844.06
+PublicWantCommonGood,EndogPublicGoods,W4+p_res_norm,loglike,  -6857.56
+PublicWantCommonGood,EndogPublicGoods,W4+r_res_norm,betaw,
+PublicWantCommonGood,EndogPublicGoods,W4+r_res_norm,betap,
+PublicWantCommonGood,EndogPublicGoods,W4+r_res_norm,tstatw,
+PublicWantCommonGood,EndogPublicGoods,W4+r_res_norm,tstatp,
+PublicWantCommonGood,EndogPublicGoods,W4+r_res_norm,AIC,  13787.59
+PublicWantCommonGood,EndogPublicGoods,W4+r_res_norm,loglike,  -6829.32
+PublicWantCommonGood,EndogPublicGoods,W4+g_res_norm,betaw,
+PublicWantCommonGood,EndogPublicGoods,W4+g_res_norm,betap,
+PublicWantCommonGood,EndogPublicGoods,W4+g_res_norm,tstatw,
+PublicWantCommonGood,EndogPublicGoods,W4+g_res_norm,tstatp,
+PublicWantCommonGood,EndogPublicGoods,W4+g_res_norm,AIC,  13848.95
+PublicWantCommonGood,EndogPublicGoods,W4+g_res_norm,loglike,  -6860.00
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_a,betaw,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_a,betap,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_a,tstatw,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_a,tstatp,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_a,AIC,   1183.33
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_a,loglike,   -567.49
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_g,betaw,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_g,betap,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_g,tstatw,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_g,tstatp,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_g,AIC,   1181.59
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_g,loglike,   -566.62
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_m,betaw,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_m,betap,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_m,tstatw,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_m,tstatp,
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_m,AIC,   1179.02
+TransparentLaws,KeyPublicGoods,W4+ln_pwd_m,loglike,   -565.33
+TransparentLaws,KeyPublicGoods,W4+wb_urbpop,betaw,
+TransparentLaws,KeyPublicGoods,W4+wb_urbpop,betap,
+TransparentLaws,KeyPublicGoods,W4+wb_urbpop,tstatw,
+TransparentLaws,KeyPublicGoods,W4+wb_urbpop,tstatp,
+TransparentLaws,KeyPublicGoods,W4+wb_urbpop,AIC,  13695.93
+TransparentLaws,KeyPublicGoods,W4+wb_urbpop,loglike,  -6783.52
+TransparentLaws,KeyPublicGoods,W4+l_res_norm,betaw,
+TransparentLaws,KeyPublicGoods,W4+l_res_norm,betap,
+TransparentLaws,KeyPublicGoods,W4+l_res_norm,tstatw,
+TransparentLaws,KeyPublicGoods,W4+l_res_norm,tstatp,
+TransparentLaws,KeyPublicGoods,W4+l_res_norm,AIC,  12435.70
+TransparentLaws,KeyPublicGoods,W4+l_res_norm,loglike,  -6153.38
+TransparentLaws,KeyPublicGoods,W4+p_res_norm,betaw,
+TransparentLaws,KeyPublicGoods,W4+p_res_norm,betap,
+TransparentLaws,KeyPublicGoods,W4+p_res_norm,tstatw,
+TransparentLaws,KeyPublicGoods,W4+p_res_norm,tstatp,
+TransparentLaws,KeyPublicGoods,W4+p_res_norm,AIC,  12453.13
+TransparentLaws,KeyPublicGoods,W4+p_res_norm,loglike,  -6162.09
+TransparentLaws,KeyPublicGoods,W4+r_res_norm,betaw,
+TransparentLaws,KeyPublicGoods,W4+r_res_norm,betap,
+TransparentLaws,KeyPublicGoods,W4+r_res_norm,tstatw,
+TransparentLaws,KeyPublicGoods,W4+r_res_norm,tstatp,
+TransparentLaws,KeyPublicGoods,W4+r_res_norm,AIC,  12441.36
+TransparentLaws,KeyPublicGoods,W4+r_res_norm,loglike,  -6156.21
+TransparentLaws,KeyPublicGoods,W4+g_res_norm,betaw,
+TransparentLaws,KeyPublicGoods,W4+g_res_norm,betap,
+TransparentLaws,KeyPublicGoods,W4+g_res_norm,tstatw,
+TransparentLaws,KeyPublicGoods,W4+g_res_norm,tstatp,
+TransparentLaws,KeyPublicGoods,W4+g_res_norm,AIC,  12462.04
+TransparentLaws,KeyPublicGoods,W4+g_res_norm,loglike,  -6166.55
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_a,betaw,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_a,betap,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_a,tstatw,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_a,tstatp,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_a,AIC,   2084.09
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_a,loglike,  -1017.87
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_g,betaw,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_g,betap,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_g,tstatw,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_g,tstatp,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_g,AIC,   2080.18
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_g,loglike,  -1015.91
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_m,betaw,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_m,betap,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_m,tstatw,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_m,tstatp,
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_m,AIC,   2079.18
+JudicialIndep,KeyPublicGoods,W4+ln_pwd_m,loglike,  -1015.41
+JudicialIndep,KeyPublicGoods,W4+wb_urbpop,betaw,
+JudicialIndep,KeyPublicGoods,W4+wb_urbpop,betap,
+JudicialIndep,KeyPublicGoods,W4+wb_urbpop,tstatw,
+JudicialIndep,KeyPublicGoods,W4+wb_urbpop,tstatp,
+JudicialIndep,KeyPublicGoods,W4+wb_urbpop,AIC,  15132.15
+JudicialIndep,KeyPublicGoods,W4+wb_urbpop,loglike,  -7501.63
+JudicialIndep,KeyPublicGoods,W4+l_res_norm,betaw,
+JudicialIndep,KeyPublicGoods,W4+l_res_norm,betap,
+JudicialIndep,KeyPublicGoods,W4+l_res_norm,tstatw,
+JudicialIndep,KeyPublicGoods,W4+l_res_norm,tstatp,
+JudicialIndep,KeyPublicGoods,W4+l_res_norm,AIC,  13465.11
+JudicialIndep,KeyPublicGoods,W4+l_res_norm,loglike,  -6668.08
+JudicialIndep,KeyPublicGoods,W4+p_res_norm,betaw,
+JudicialIndep,KeyPublicGoods,W4+p_res_norm,betap,
+JudicialIndep,KeyPublicGoods,W4+p_res_norm,tstatw,
+JudicialIndep,KeyPublicGoods,W4+p_res_norm,tstatp,
+JudicialIndep,KeyPublicGoods,W4+p_res_norm,AIC,  13471.80
+JudicialIndep,KeyPublicGoods,W4+p_res_norm,loglike,  -6671.43
+JudicialIndep,KeyPublicGoods,W4+r_res_norm,betaw,
+JudicialIndep,KeyPublicGoods,W4+r_res_norm,betap,
+JudicialIndep,KeyPublicGoods,W4+r_res_norm,tstatw,
+JudicialIndep,KeyPublicGoods,W4+r_res_norm,tstatp,
+JudicialIndep,KeyPublicGoods,W4+r_res_norm,AIC,  13424.10
+JudicialIndep,KeyPublicGoods,W4+r_res_norm,loglike,  -6647.58
+JudicialIndep,KeyPublicGoods,W4+g_res_norm,betaw,
+JudicialIndep,KeyPublicGoods,W4+g_res_norm,betap,
+JudicialIndep,KeyPublicGoods,W4+g_res_norm,tstatw,
+JudicialIndep,KeyPublicGoods,W4+g_res_norm,tstatp,
+JudicialIndep,KeyPublicGoods,W4+g_res_norm,AIC,  13499.18
+JudicialIndep,KeyPublicGoods,W4+g_res_norm,loglike,  -6685.12
+FreeExpression,KeyPublicGoods,W4+ln_pwd_a,betaw,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_a,betap,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_a,tstatw,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_a,tstatp,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_a,AIC,  -9540.18
+FreeExpression,KeyPublicGoods,W4+ln_pwd_a,loglike,   4794.27
+FreeExpression,KeyPublicGoods,W4+ln_pwd_g,betaw,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_g,betap,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_g,tstatw,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_g,tstatp,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_g,AIC,  -9536.17
+FreeExpression,KeyPublicGoods,W4+ln_pwd_g,loglike,   4792.26
+FreeExpression,KeyPublicGoods,W4+ln_pwd_m,betaw,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_m,betap,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_m,tstatw,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_m,tstatp,
+FreeExpression,KeyPublicGoods,W4+ln_pwd_m,AIC,  -9539.36
+FreeExpression,KeyPublicGoods,W4+ln_pwd_m,loglike,   4793.86
+FreeExpression,KeyPublicGoods,W4+wb_urbpop,betaw,
+FreeExpression,KeyPublicGoods,W4+wb_urbpop,betap,
+FreeExpression,KeyPublicGoods,W4+wb_urbpop,tstatw,
+FreeExpression,KeyPublicGoods,W4+wb_urbpop,tstatp,
+FreeExpression,KeyPublicGoods,W4+wb_urbpop,AIC, -17047.97
+FreeExpression,KeyPublicGoods,W4+wb_urbpop,loglike,   8588.43
+FreeExpression,KeyPublicGoods,W4+l_res_norm,betaw,
+FreeExpression,KeyPublicGoods,W4+l_res_norm,betap,
+FreeExpression,KeyPublicGoods,W4+l_res_norm,tstatw,
+FreeExpression,KeyPublicGoods,W4+l_res_norm,tstatp,
+FreeExpression,KeyPublicGoods,W4+l_res_norm,AIC, -16750.97
+FreeExpression,KeyPublicGoods,W4+l_res_norm,loglike,   8439.96
+FreeExpression,KeyPublicGoods,W4+p_res_norm,betaw,
+FreeExpression,KeyPublicGoods,W4+p_res_norm,betap,
+FreeExpression,KeyPublicGoods,W4+p_res_norm,tstatw,
+FreeExpression,KeyPublicGoods,W4+p_res_norm,tstatp,
+FreeExpression,KeyPublicGoods,W4+p_res_norm,AIC, -16605.09
+FreeExpression,KeyPublicGoods,W4+p_res_norm,loglike,   8367.02
+FreeExpression,KeyPublicGoods,W4+r_res_norm,betaw,
+FreeExpression,KeyPublicGoods,W4+r_res_norm,betap,
+FreeExpression,KeyPublicGoods,W4+r_res_norm,tstatw,
+FreeExpression,KeyPublicGoods,W4+r_res_norm,tstatp,
+FreeExpression,KeyPublicGoods,W4+r_res_norm,AIC, -16613.04
+FreeExpression,KeyPublicGoods,W4+r_res_norm,loglike,   8370.99
+FreeExpression,KeyPublicGoods,W4+g_res_norm,betaw,
+FreeExpression,KeyPublicGoods,W4+g_res_norm,betap,
+FreeExpression,KeyPublicGoods,W4+g_res_norm,tstatw,
+FreeExpression,KeyPublicGoods,W4+g_res_norm,tstatp,
+FreeExpression,KeyPublicGoods,W4+g_res_norm,AIC, -16651.60
+FreeExpression,KeyPublicGoods,W4+g_res_norm,loglike,   8390.27
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_a,betaw,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_a,betap,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_a,tstatw,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_a,tstatp,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_a,AIC,   -252.26
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_a,loglike,    150.31
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_g,betaw,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_g,betap,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_g,tstatw,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_g,tstatp,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_g,AIC,   -268.30
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_g,loglike,    158.33
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_m,betaw,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_m,betap,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_m,tstatw,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_m,tstatp,
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_m,AIC,   -269.42
+StateOwnsEconomy,KeyCorruptions,W4+ln_pwd_m,loglike,    158.89
+StateOwnsEconomy,KeyCorruptions,W4+wb_urbpop,betaw,
+StateOwnsEconomy,KeyCorruptions,W4+wb_urbpop,betap,
+StateOwnsEconomy,KeyCorruptions,W4+wb_urbpop,tstatw,
+StateOwnsEconomy,KeyCorruptions,W4+wb_urbpop,tstatp,
+StateOwnsEconomy,KeyCorruptions,W4+wb_urbpop,AIC,  17800.54
+StateOwnsEconomy,KeyCorruptions,W4+wb_urbpop,loglike,  -8835.82
+StateOwnsEconomy,KeyCorruptions,W4+l_res_norm,betaw,
+StateOwnsEconomy,KeyCorruptions,W4+l_res_norm,betap,
+StateOwnsEconomy,KeyCorruptions,W4+l_res_norm,tstatw,
+StateOwnsEconomy,KeyCorruptions,W4+l_res_norm,tstatp,
+StateOwnsEconomy,KeyCorruptions,W4+l_res_norm,AIC,  15865.58
+StateOwnsEconomy,KeyCorruptions,W4+l_res_norm,loglike,  -7868.32
+StateOwnsEconomy,KeyCorruptions,W4+p_res_norm,betaw,
+StateOwnsEconomy,KeyCorruptions,W4+p_res_norm,betap,
+StateOwnsEconomy,KeyCorruptions,W4+p_res_norm,tstatw,
+StateOwnsEconomy,KeyCorruptions,W4+p_res_norm,tstatp,
+StateOwnsEconomy,KeyCorruptions,W4+p_res_norm,AIC,  15896.94
+StateOwnsEconomy,KeyCorruptions,W4+p_res_norm,loglike,  -7884.00
+StateOwnsEconomy,KeyCorruptions,W4+r_res_norm,betaw,
+StateOwnsEconomy,KeyCorruptions,W4+r_res_norm,betap,
+StateOwnsEconomy,KeyCorruptions,W4+r_res_norm,tstatw,
+StateOwnsEconomy,KeyCorruptions,W4+r_res_norm,tstatp,
+StateOwnsEconomy,KeyCorruptions,W4+r_res_norm,AIC,  15840.01
+StateOwnsEconomy,KeyCorruptions,W4+r_res_norm,loglike,  -7855.54
+StateOwnsEconomy,KeyCorruptions,W4+g_res_norm,betaw,
+StateOwnsEconomy,KeyCorruptions,W4+g_res_norm,betap,
+StateOwnsEconomy,KeyCorruptions,W4+g_res_norm,tstatw,
+StateOwnsEconomy,KeyCorruptions,W4+g_res_norm,tstatp,
+StateOwnsEconomy,KeyCorruptions,W4+g_res_norm,AIC,  15879.02
+StateOwnsEconomy,KeyCorruptions,W4+g_res_norm,loglike,  -7875.04
+RespectConstitution,Freedoms,W4+ln_pwd_a,betaw,
+RespectConstitution,Freedoms,W4+ln_pwd_a,betap,
+RespectConstitution,Freedoms,W4+ln_pwd_a,tstatw,
+RespectConstitution,Freedoms,W4+ln_pwd_a,tstatp,
+RespectConstitution,Freedoms,W4+ln_pwd_a,AIC,   1309.42
+RespectConstitution,Freedoms,W4+ln_pwd_a,loglike,   -630.53
+RespectConstitution,Freedoms,W4+ln_pwd_g,betaw,
+RespectConstitution,Freedoms,W4+ln_pwd_g,betap,
+RespectConstitution,Freedoms,W4+ln_pwd_g,tstatw,
+RespectConstitution,Freedoms,W4+ln_pwd_g,tstatp,
+RespectConstitution,Freedoms,W4+ln_pwd_g,AIC,   1307.55
+RespectConstitution,Freedoms,W4+ln_pwd_g,loglike,   -629.59
+RespectConstitution,Freedoms,W4+ln_pwd_m,betaw,
+RespectConstitution,Freedoms,W4+ln_pwd_m,betap,
+RespectConstitution,Freedoms,W4+ln_pwd_m,tstatw,
+RespectConstitution,Freedoms,W4+ln_pwd_m,tstatp,
+RespectConstitution,Freedoms,W4+ln_pwd_m,AIC,   1309.00
+RespectConstitution,Freedoms,W4+ln_pwd_m,loglike,   -630.32
+RespectConstitution,Freedoms,W4+wb_urbpop,betaw,
+RespectConstitution,Freedoms,W4+wb_urbpop,betap,
+RespectConstitution,Freedoms,W4+wb_urbpop,tstatw,
+RespectConstitution,Freedoms,W4+wb_urbpop,tstatp,
+RespectConstitution,Freedoms,W4+wb_urbpop,AIC,  15472.61
+RespectConstitution,Freedoms,W4+wb_urbpop,loglike,  -7671.86
+RespectConstitution,Freedoms,W4+l_res_norm,betaw,
+RespectConstitution,Freedoms,W4+l_res_norm,betap,
+RespectConstitution,Freedoms,W4+l_res_norm,tstatw,
+RespectConstitution,Freedoms,W4+l_res_norm,tstatp,
+RespectConstitution,Freedoms,W4+l_res_norm,AIC,  14160.96
+RespectConstitution,Freedoms,W4+l_res_norm,loglike,  -7016.01
+RespectConstitution,Freedoms,W4+p_res_norm,betaw,
+RespectConstitution,Freedoms,W4+p_res_norm,betap,
+RespectConstitution,Freedoms,W4+p_res_norm,tstatw,
+RespectConstitution,Freedoms,W4+p_res_norm,tstatp,
+RespectConstitution,Freedoms,W4+p_res_norm,AIC,  14168.99
+RespectConstitution,Freedoms,W4+p_res_norm,loglike,  -7020.03
+RespectConstitution,Freedoms,W4+r_res_norm,betaw,
+RespectConstitution,Freedoms,W4+r_res_norm,betap,
+RespectConstitution,Freedoms,W4+r_res_norm,tstatw,
+RespectConstitution,Freedoms,W4+r_res_norm,tstatp,
+RespectConstitution,Freedoms,W4+r_res_norm,AIC,  14145.64
+RespectConstitution,Freedoms,W4+r_res_norm,loglike,  -7008.35
+RespectConstitution,Freedoms,W4+g_res_norm,betaw,
+RespectConstitution,Freedoms,W4+g_res_norm,betap,
+RespectConstitution,Freedoms,W4+g_res_norm,tstatw,
+RespectConstitution,Freedoms,W4+g_res_norm,tstatp,
+RespectConstitution,Freedoms,W4+g_res_norm,AIC,  14168.24
+RespectConstitution,Freedoms,W4+g_res_norm,loglike,  -7019.65
+RuleofLaw,Freedoms,W4+ln_pwd_a,betaw,
+RuleofLaw,Freedoms,W4+ln_pwd_a,betap,
+RuleofLaw,Freedoms,W4+ln_pwd_a,tstatw,
+RuleofLaw,Freedoms,W4+ln_pwd_a,tstatp,
+RuleofLaw,Freedoms,W4+ln_pwd_a,AIC, -10501.31
+RuleofLaw,Freedoms,W4+ln_pwd_a,loglike,   5274.83
+RuleofLaw,Freedoms,W4+ln_pwd_g,betaw,
+RuleofLaw,Freedoms,W4+ln_pwd_g,betap,
+RuleofLaw,Freedoms,W4+ln_pwd_g,tstatw,
+RuleofLaw,Freedoms,W4+ln_pwd_g,tstatp,
+RuleofLaw,Freedoms,W4+ln_pwd_g,AIC, -10506.82
+RuleofLaw,Freedoms,W4+ln_pwd_g,loglike,   5277.59
+RuleofLaw,Freedoms,W4+ln_pwd_m,betaw,
+RuleofLaw,Freedoms,W4+ln_pwd_m,betap,
+RuleofLaw,Freedoms,W4+ln_pwd_m,tstatw,
+RuleofLaw,Freedoms,W4+ln_pwd_m,tstatp,
+RuleofLaw,Freedoms,W4+ln_pwd_m,AIC, -10501.36
+RuleofLaw,Freedoms,W4+ln_pwd_m,loglike,   5274.86
+RuleofLaw,Freedoms,W4+wb_urbpop,betaw,
+RuleofLaw,Freedoms,W4+wb_urbpop,betap,
+RuleofLaw,Freedoms,W4+wb_urbpop,tstatw,
+RuleofLaw,Freedoms,W4+wb_urbpop,tstatp,
+RuleofLaw,Freedoms,W4+wb_urbpop,AIC, -18031.99
+RuleofLaw,Freedoms,W4+wb_urbpop,loglike,   9080.44
+RuleofLaw,Freedoms,W4+l_res_norm,betaw,
+RuleofLaw,Freedoms,W4+l_res_norm,betap,
+RuleofLaw,Freedoms,W4+l_res_norm,tstatw,
+RuleofLaw,Freedoms,W4+l_res_norm,tstatp,
+RuleofLaw,Freedoms,W4+l_res_norm,AIC, -17991.29
+RuleofLaw,Freedoms,W4+l_res_norm,loglike,   9060.11
+RuleofLaw,Freedoms,W4+p_res_norm,betaw,
+RuleofLaw,Freedoms,W4+p_res_norm,betap,
+RuleofLaw,Freedoms,W4+p_res_norm,tstatw,
+RuleofLaw,Freedoms,W4+p_res_norm,tstatp,
+RuleofLaw,Freedoms,W4+p_res_norm,AIC, -17985.32
+RuleofLaw,Freedoms,W4+p_res_norm,loglike,   9057.13
+RuleofLaw,Freedoms,W4+r_res_norm,betaw,
+RuleofLaw,Freedoms,W4+r_res_norm,betap,
+RuleofLaw,Freedoms,W4+r_res_norm,tstatw,
+RuleofLaw,Freedoms,W4+r_res_norm,tstatp,
+RuleofLaw,Freedoms,W4+r_res_norm,AIC, -18123.85
+RuleofLaw,Freedoms,W4+r_res_norm,loglike,   9126.39
+RuleofLaw,Freedoms,W4+g_res_norm,betaw,
+RuleofLaw,Freedoms,W4+g_res_norm,betap,
+RuleofLaw,Freedoms,W4+g_res_norm,tstatw,
+RuleofLaw,Freedoms,W4+g_res_norm,tstatp,
+RuleofLaw,Freedoms,W4+g_res_norm,AIC, -17996.91
+RuleofLaw,Freedoms,W4+g_res_norm,loglike,   9062.93
+FreeElections,Freedoms,W4+ln_pwd_a,betaw,
+FreeElections,Freedoms,W4+ln_pwd_a,betap,
+FreeElections,Freedoms,W4+ln_pwd_a,tstatw,
+FreeElections,Freedoms,W4+ln_pwd_a,tstatp,
+FreeElections,Freedoms,W4+ln_pwd_a,AIC,   3123.59
+FreeElections,Freedoms,W4+ln_pwd_a,loglike,  -1537.61
+FreeElections,Freedoms,W4+ln_pwd_g,betaw,
+FreeElections,Freedoms,W4+ln_pwd_g,betap,
+FreeElections,Freedoms,W4+ln_pwd_g,tstatw,
+FreeElections,Freedoms,W4+ln_pwd_g,tstatp,
+FreeElections,Freedoms,W4+ln_pwd_g,AIC,   3126.80
+FreeElections,Freedoms,W4+ln_pwd_g,loglike,  -1539.21
+FreeElections,Freedoms,W4+ln_pwd_m,betaw,
+FreeElections,Freedoms,W4+ln_pwd_m,betap,
+FreeElections,Freedoms,W4+ln_pwd_m,tstatw,
+FreeElections,Freedoms,W4+ln_pwd_m,tstatp,
+FreeElections,Freedoms,W4+ln_pwd_m,AIC,   3126.36
+FreeElections,Freedoms,W4+ln_pwd_m,loglike,  -1538.99
+FreeElections,Freedoms,W4+wb_urbpop,betaw,
+FreeElections,Freedoms,W4+wb_urbpop,betap,
+FreeElections,Freedoms,W4+wb_urbpop,tstatw,
+FreeElections,Freedoms,W4+wb_urbpop,tstatp,
+FreeElections,Freedoms,W4+wb_urbpop,AIC,  13575.79
+FreeElections,Freedoms,W4+wb_urbpop,loglike,  -6723.36
+FreeElections,Freedoms,W4+l_res_norm,betaw,
+FreeElections,Freedoms,W4+l_res_norm,betap,
+FreeElections,Freedoms,W4+l_res_norm,tstatw,
+FreeElections,Freedoms,W4+l_res_norm,tstatp,
+FreeElections,Freedoms,W4+l_res_norm,AIC,  13250.19
+FreeElections,Freedoms,W4+l_res_norm,loglike,  -6560.54
+FreeElections,Freedoms,W4+p_res_norm,betaw,
+FreeElections,Freedoms,W4+p_res_norm,betap,
+FreeElections,Freedoms,W4+p_res_norm,tstatw,
+FreeElections,Freedoms,W4+p_res_norm,tstatp,
+FreeElections,Freedoms,W4+p_res_norm,AIC,  13270.35
+FreeElections,Freedoms,W4+p_res_norm,loglike,  -6570.62
+FreeElections,Freedoms,W4+r_res_norm,betaw,
+FreeElections,Freedoms,W4+r_res_norm,betap,
+FreeElections,Freedoms,W4+r_res_norm,tstatw,
+FreeElections,Freedoms,W4+r_res_norm,tstatp,
+FreeElections,Freedoms,W4+r_res_norm,AIC,  13271.93
+FreeElections,Freedoms,W4+r_res_norm,loglike,  -6571.42
+FreeElections,Freedoms,W4+g_res_norm,betaw,
+FreeElections,Freedoms,W4+g_res_norm,betap,
+FreeElections,Freedoms,W4+g_res_norm,tstatw,
+FreeElections,Freedoms,W4+g_res_norm,tstatp,
+FreeElections,Freedoms,W4+g_res_norm,AIC,  13270.86
+FreeElections,Freedoms,W4+g_res_norm,loglike,  -6570.88
+FreeMovement,Freedoms,W4+ln_pwd_a,betaw,
+FreeMovement,Freedoms,W4+ln_pwd_a,betap,
+FreeMovement,Freedoms,W4+ln_pwd_a,tstatw,
+FreeMovement,Freedoms,W4+ln_pwd_a,tstatp,
+FreeMovement,Freedoms,W4+ln_pwd_a,AIC, -11036.94
+FreeMovement,Freedoms,W4+ln_pwd_a,loglike,   5542.65
+FreeMovement,Freedoms,W4+ln_pwd_g,betaw,
+FreeMovement,Freedoms,W4+ln_pwd_g,betap,
+FreeMovement,Freedoms,W4+ln_pwd_g,tstatw,
+FreeMovement,Freedoms,W4+ln_pwd_g,tstatp,
+FreeMovement,Freedoms,W4+ln_pwd_g,AIC, -11014.55
+FreeMovement,Freedoms,W4+ln_pwd_g,loglike,   5531.45
+FreeMovement,Freedoms,W4+ln_pwd_m,betaw,
+FreeMovement,Freedoms,W4+ln_pwd_m,betap,
+FreeMovement,Freedoms,W4+ln_pwd_m,tstatw,
+FreeMovement,Freedoms,W4+ln_pwd_m,tstatp,
+FreeMovement,Freedoms,W4+ln_pwd_m,AIC, -11024.00
+FreeMovement,Freedoms,W4+ln_pwd_m,loglike,   5536.18
+FreeMovement,Freedoms,W4+wb_urbpop,betaw,
+FreeMovement,Freedoms,W4+wb_urbpop,betap,
+FreeMovement,Freedoms,W4+wb_urbpop,tstatw,
+FreeMovement,Freedoms,W4+wb_urbpop,tstatp,
+FreeMovement,Freedoms,W4+wb_urbpop,AIC, -13442.52
+FreeMovement,Freedoms,W4+wb_urbpop,loglike,   6785.71
+FreeMovement,Freedoms,W4+l_res_norm,betaw,
+FreeMovement,Freedoms,W4+l_res_norm,betap,
+FreeMovement,Freedoms,W4+l_res_norm,tstatw,
+FreeMovement,Freedoms,W4+l_res_norm,tstatp,
+FreeMovement,Freedoms,W4+l_res_norm,AIC, -14461.45
+FreeMovement,Freedoms,W4+l_res_norm,loglike,   7295.19
+FreeMovement,Freedoms,W4+p_res_norm,betaw,
+FreeMovement,Freedoms,W4+p_res_norm,betap,
+FreeMovement,Freedoms,W4+p_res_norm,tstatw,
+FreeMovement,Freedoms,W4+p_res_norm,tstatp,
+FreeMovement,Freedoms,W4+p_res_norm,AIC, -14426.08
+FreeMovement,Freedoms,W4+p_res_norm,loglike,   7277.51
+FreeMovement,Freedoms,W4+r_res_norm,betaw,
+FreeMovement,Freedoms,W4+r_res_norm,betap,
+FreeMovement,Freedoms,W4+r_res_norm,tstatw,
+FreeMovement,Freedoms,W4+r_res_norm,tstatp,
+FreeMovement,Freedoms,W4+r_res_norm,AIC, -14422.69
+FreeMovement,Freedoms,W4+r_res_norm,loglike,   7275.82
+FreeMovement,Freedoms,W4+g_res_norm,betaw,
+FreeMovement,Freedoms,W4+g_res_norm,betap,
+FreeMovement,Freedoms,W4+g_res_norm,tstatw,
+FreeMovement,Freedoms,W4+g_res_norm,tstatp,
+FreeMovement,Freedoms,W4+g_res_norm,AIC, -14426.06
+FreeMovement,Freedoms,W4+g_res_norm,loglike,   7277.50
+CivilLiberties,Freedoms,W4+ln_pwd_a,betaw,
+CivilLiberties,Freedoms,W4+ln_pwd_a,betap,
+CivilLiberties,Freedoms,W4+ln_pwd_a,tstatw,
+CivilLiberties,Freedoms,W4+ln_pwd_a,tstatp,
+CivilLiberties,Freedoms,W4+ln_pwd_a,AIC, -10834.79
+CivilLiberties,Freedoms,W4+ln_pwd_a,loglike,   5441.57
+CivilLiberties,Freedoms,W4+ln_pwd_g,betaw,
+CivilLiberties,Freedoms,W4+ln_pwd_g,betap,
+CivilLiberties,Freedoms,W4+ln_pwd_g,tstatw,
+CivilLiberties,Freedoms,W4+ln_pwd_g,tstatp,
+CivilLiberties,Freedoms,W4+ln_pwd_g,AIC, -10836.10
+CivilLiberties,Freedoms,W4+ln_pwd_g,loglike,   5442.23
+CivilLiberties,Freedoms,W4+ln_pwd_m,betaw,
+CivilLiberties,Freedoms,W4+ln_pwd_m,betap,
+CivilLiberties,Freedoms,W4+ln_pwd_m,tstatw,
+CivilLiberties,Freedoms,W4+ln_pwd_m,tstatp,
+CivilLiberties,Freedoms,W4+ln_pwd_m,AIC, -10838.34
+CivilLiberties,Freedoms,W4+ln_pwd_m,loglike,   5443.35
+CivilLiberties,Freedoms,W4+wb_urbpop,betaw,
+CivilLiberties,Freedoms,W4+wb_urbpop,betap,
+CivilLiberties,Freedoms,W4+wb_urbpop,tstatw,
+CivilLiberties,Freedoms,W4+wb_urbpop,tstatp,
+CivilLiberties,Freedoms,W4+wb_urbpop,AIC, -20228.65
+CivilLiberties,Freedoms,W4+wb_urbpop,loglike,  10178.77
+CivilLiberties,Freedoms,W4+l_res_norm,betaw,
+CivilLiberties,Freedoms,W4+l_res_norm,betap,
+CivilLiberties,Freedoms,W4+l_res_norm,tstatw,
+CivilLiberties,Freedoms,W4+l_res_norm,tstatp,
+CivilLiberties,Freedoms,W4+l_res_norm,AIC, -19680.54
+CivilLiberties,Freedoms,W4+l_res_norm,loglike,   9904.74
+CivilLiberties,Freedoms,W4+p_res_norm,betaw,
+CivilLiberties,Freedoms,W4+p_res_norm,betap,
+CivilLiberties,Freedoms,W4+p_res_norm,tstatw,
+CivilLiberties,Freedoms,W4+p_res_norm,tstatp,
+CivilLiberties,Freedoms,W4+p_res_norm,AIC, -19560.66
+CivilLiberties,Freedoms,W4+p_res_norm,loglike,   9844.80
+CivilLiberties,Freedoms,W4+r_res_norm,betaw,
+CivilLiberties,Freedoms,W4+r_res_norm,betap,
+CivilLiberties,Freedoms,W4+r_res_norm,tstatw,
+CivilLiberties,Freedoms,W4+r_res_norm,tstatp,
+CivilLiberties,Freedoms,W4+r_res_norm,AIC, -19593.93
+CivilLiberties,Freedoms,W4+r_res_norm,loglike,   9861.43
+CivilLiberties,Freedoms,W4+g_res_norm,betaw,
+CivilLiberties,Freedoms,W4+g_res_norm,betap,
+CivilLiberties,Freedoms,W4+g_res_norm,tstatw,
+CivilLiberties,Freedoms,W4+g_res_norm,tstatp,
+CivilLiberties,Freedoms,W4+g_res_norm,AIC, -19606.53
+CivilLiberties,Freedoms,W4+g_res_norm,loglike,   9867.73
+PolRights,Freedoms,W4+ln_pwd_a,betaw,
+PolRights,Freedoms,W4+ln_pwd_a,betap,
+PolRights,Freedoms,W4+ln_pwd_a,tstatw,
+PolRights,Freedoms,W4+ln_pwd_a,tstatp,
+PolRights,Freedoms,W4+ln_pwd_a,AIC,   4895.37
+PolRights,Freedoms,W4+ln_pwd_a,loglike,  -2423.51
+PolRights,Freedoms,W4+ln_pwd_g,betaw,
+PolRights,Freedoms,W4+ln_pwd_g,betap,
+PolRights,Freedoms,W4+ln_pwd_g,tstatw,
+PolRights,Freedoms,W4+ln_pwd_g,tstatp,
+PolRights,Freedoms,W4+ln_pwd_g,AIC,   4892.79
+PolRights,Freedoms,W4+ln_pwd_g,loglike,  -2422.21
+PolRights,Freedoms,W4+ln_pwd_m,betaw,
+PolRights,Freedoms,W4+ln_pwd_m,betap,
+PolRights,Freedoms,W4+ln_pwd_m,tstatw,
+PolRights,Freedoms,W4+ln_pwd_m,tstatp,
+PolRights,Freedoms,W4+ln_pwd_m,AIC,   4890.18
+PolRights,Freedoms,W4+ln_pwd_m,loglike,  -2420.91
+PolRights,Freedoms,W4+wb_urbpop,betaw,
+PolRights,Freedoms,W4+wb_urbpop,betap,
+PolRights,Freedoms,W4+wb_urbpop,tstatw,
+PolRights,Freedoms,W4+wb_urbpop,tstatp,
+PolRights,Freedoms,W4+wb_urbpop,AIC,  16581.45
+PolRights,Freedoms,W4+wb_urbpop,loglike,  -8239.36
+PolRights,Freedoms,W4+l_res_norm,betaw,
+PolRights,Freedoms,W4+l_res_norm,betap,
+PolRights,Freedoms,W4+l_res_norm,tstatw,
+PolRights,Freedoms,W4+l_res_norm,tstatp,
+PolRights,Freedoms,W4+l_res_norm,AIC,  16169.26
+PolRights,Freedoms,W4+l_res_norm,loglike,  -8033.27
+PolRights,Freedoms,W4+p_res_norm,betaw,
+PolRights,Freedoms,W4+p_res_norm,betap,
+PolRights,Freedoms,W4+p_res_norm,tstatw,
+PolRights,Freedoms,W4+p_res_norm,tstatp,
+PolRights,Freedoms,W4+p_res_norm,AIC,  16327.88
+PolRights,Freedoms,W4+p_res_norm,loglike,  -8112.57
+PolRights,Freedoms,W4+r_res_norm,betaw,
+PolRights,Freedoms,W4+r_res_norm,betap,
+PolRights,Freedoms,W4+r_res_norm,tstatw,
+PolRights,Freedoms,W4+r_res_norm,tstatp,
+PolRights,Freedoms,W4+r_res_norm,AIC,  16322.88
+PolRights,Freedoms,W4+r_res_norm,loglike,  -8110.08
+PolRights,Freedoms,W4+g_res_norm,betaw,
+PolRights,Freedoms,W4+g_res_norm,betap,
+PolRights,Freedoms,W4+g_res_norm,tstatw,
+PolRights,Freedoms,W4+g_res_norm,tstatp,
+PolRights,Freedoms,W4+g_res_norm,AIC,  16325.02
+PolRights,Freedoms,W4+g_res_norm,loglike,  -8111.15
+ReligiousFreedom,Freedoms,W4+ln_pwd_a,betaw,
+ReligiousFreedom,Freedoms,W4+ln_pwd_a,betap,
+ReligiousFreedom,Freedoms,W4+ln_pwd_a,tstatw,
+ReligiousFreedom,Freedoms,W4+ln_pwd_a,tstatp,
+ReligiousFreedom,Freedoms,W4+ln_pwd_a,AIC,    972.93
+ReligiousFreedom,Freedoms,W4+ln_pwd_a,loglike,   -462.29
+ReligiousFreedom,Freedoms,W4+ln_pwd_g,betaw,
+ReligiousFreedom,Freedoms,W4+ln_pwd_g,betap,
+ReligiousFreedom,Freedoms,W4+ln_pwd_g,tstatw,
+ReligiousFreedom,Freedoms,W4+ln_pwd_g,tstatp,
+ReligiousFreedom,Freedoms,W4+ln_pwd_g,AIC,    976.57
+ReligiousFreedom,Freedoms,W4+ln_pwd_g,loglike,   -464.11
+ReligiousFreedom,Freedoms,W4+ln_pwd_m,betaw,
+ReligiousFreedom,Freedoms,W4+ln_pwd_m,betap,
+ReligiousFreedom,Freedoms,W4+ln_pwd_m,tstatw,
+ReligiousFreedom,Freedoms,W4+ln_pwd_m,tstatp,
+ReligiousFreedom,Freedoms,W4+ln_pwd_m,AIC,    976.74
+ReligiousFreedom,Freedoms,W4+ln_pwd_m,loglike,   -464.19
+ReligiousFreedom,Freedoms,W4+wb_urbpop,betaw,
+ReligiousFreedom,Freedoms,W4+wb_urbpop,betap,
+ReligiousFreedom,Freedoms,W4+wb_urbpop,tstatw,
+ReligiousFreedom,Freedoms,W4+wb_urbpop,tstatp,
+ReligiousFreedom,Freedoms,W4+wb_urbpop,AIC,  14703.85
+ReligiousFreedom,Freedoms,W4+wb_urbpop,loglike,  -7287.48
+ReligiousFreedom,Freedoms,W4+l_res_norm,betaw,
+ReligiousFreedom,Freedoms,W4+l_res_norm,betap,
+ReligiousFreedom,Freedoms,W4+l_res_norm,tstatw,
+ReligiousFreedom,Freedoms,W4+l_res_norm,tstatp,
+ReligiousFreedom,Freedoms,W4+l_res_norm,AIC,  13598.94
+ReligiousFreedom,Freedoms,W4+l_res_norm,loglike,  -6735.00
+ReligiousFreedom,Freedoms,W4+p_res_norm,betaw,
+ReligiousFreedom,Freedoms,W4+p_res_norm,betap,
+ReligiousFreedom,Freedoms,W4+p_res_norm,tstatw,
+ReligiousFreedom,Freedoms,W4+p_res_norm,tstatp,
+ReligiousFreedom,Freedoms,W4+p_res_norm,AIC,  13602.15
+ReligiousFreedom,Freedoms,W4+p_res_norm,loglike,  -6736.61
+ReligiousFreedom,Freedoms,W4+r_res_norm,betaw,
+ReligiousFreedom,Freedoms,W4+r_res_norm,betap,
+ReligiousFreedom,Freedoms,W4+r_res_norm,tstatw,
+ReligiousFreedom,Freedoms,W4+r_res_norm,tstatp,
+ReligiousFreedom,Freedoms,W4+r_res_norm,AIC,  13538.53
+ReligiousFreedom,Freedoms,W4+r_res_norm,loglike,  -6704.80
+ReligiousFreedom,Freedoms,W4+g_res_norm,betaw,
+ReligiousFreedom,Freedoms,W4+g_res_norm,betap,
+ReligiousFreedom,Freedoms,W4+g_res_norm,tstatw,
+ReligiousFreedom,Freedoms,W4+g_res_norm,tstatp,
+ReligiousFreedom,Freedoms,W4+g_res_norm,AIC,  13607.26
+ReligiousFreedom,Freedoms,W4+g_res_norm,loglike,  -6739.16
+JudicialIndep,Freedoms,W4+ln_pwd_a,betaw,
+JudicialIndep,Freedoms,W4+ln_pwd_a,betap,
+JudicialIndep,Freedoms,W4+ln_pwd_a,tstatw,
+JudicialIndep,Freedoms,W4+ln_pwd_a,tstatp,
+JudicialIndep,Freedoms,W4+ln_pwd_a,AIC,   2084.09
+JudicialIndep,Freedoms,W4+ln_pwd_a,loglike,  -1017.87
+JudicialIndep,Freedoms,W4+ln_pwd_g,betaw,
+JudicialIndep,Freedoms,W4+ln_pwd_g,betap,
+JudicialIndep,Freedoms,W4+ln_pwd_g,tstatw,
+JudicialIndep,Freedoms,W4+ln_pwd_g,tstatp,
+JudicialIndep,Freedoms,W4+ln_pwd_g,AIC,   2080.18
+JudicialIndep,Freedoms,W4+ln_pwd_g,loglike,  -1015.91
+JudicialIndep,Freedoms,W4+ln_pwd_m,betaw,
+JudicialIndep,Freedoms,W4+ln_pwd_m,betap,
+JudicialIndep,Freedoms,W4+ln_pwd_m,tstatw,
+JudicialIndep,Freedoms,W4+ln_pwd_m,tstatp,
+JudicialIndep,Freedoms,W4+ln_pwd_m,AIC,   2079.18
+JudicialIndep,Freedoms,W4+ln_pwd_m,loglike,  -1015.41
+JudicialIndep,Freedoms,W4+wb_urbpop,betaw,
+JudicialIndep,Freedoms,W4+wb_urbpop,betap,
+JudicialIndep,Freedoms,W4+wb_urbpop,tstatw,
+JudicialIndep,Freedoms,W4+wb_urbpop,tstatp,
+JudicialIndep,Freedoms,W4+wb_urbpop,AIC,  15132.15
+JudicialIndep,Freedoms,W4+wb_urbpop,loglike,  -7501.63
+JudicialIndep,Freedoms,W4+l_res_norm,betaw,
+JudicialIndep,Freedoms,W4+l_res_norm,betap,
+JudicialIndep,Freedoms,W4+l_res_norm,tstatw,
+JudicialIndep,Freedoms,W4+l_res_norm,tstatp,
+JudicialIndep,Freedoms,W4+l_res_norm,AIC,  13465.11
+JudicialIndep,Freedoms,W4+l_res_norm,loglike,  -6668.08
+JudicialIndep,Freedoms,W4+p_res_norm,betaw,
+JudicialIndep,Freedoms,W4+p_res_norm,betap,
+JudicialIndep,Freedoms,W4+p_res_norm,tstatw,
+JudicialIndep,Freedoms,W4+p_res_norm,tstatp,
+JudicialIndep,Freedoms,W4+p_res_norm,AIC,  13471.80
+JudicialIndep,Freedoms,W4+p_res_norm,loglike,  -6671.43
+JudicialIndep,Freedoms,W4+r_res_norm,betaw,
+JudicialIndep,Freedoms,W4+r_res_norm,betap,
+JudicialIndep,Freedoms,W4+r_res_norm,tstatw,
+JudicialIndep,Freedoms,W4+r_res_norm,tstatp,
+JudicialIndep,Freedoms,W4+r_res_norm,AIC,  13424.10
+JudicialIndep,Freedoms,W4+r_res_norm,loglike,  -6647.58
+JudicialIndep,Freedoms,W4+g_res_norm,betaw,
+JudicialIndep,Freedoms,W4+g_res_norm,betap,
+JudicialIndep,Freedoms,W4+g_res_norm,tstatw,
+JudicialIndep,Freedoms,W4+g_res_norm,tstatp,
+JudicialIndep,Freedoms,W4+g_res_norm,AIC,  13499.18
+JudicialIndep,Freedoms,W4+g_res_norm,loglike,  -6685.12
+PropertyRights,Freedoms,W4+ln_pwd_a,betaw,
+PropertyRights,Freedoms,W4+ln_pwd_a,betap,
+PropertyRights,Freedoms,W4+ln_pwd_a,tstatw,
+PropertyRights,Freedoms,W4+ln_pwd_a,tstatp,
+PropertyRights,Freedoms,W4+ln_pwd_a,AIC, -12430.60
+PropertyRights,Freedoms,W4+ln_pwd_a,loglike,   6239.48
+PropertyRights,Freedoms,W4+ln_pwd_g,betaw,
+PropertyRights,Freedoms,W4+ln_pwd_g,betap,
+PropertyRights,Freedoms,W4+ln_pwd_g,tstatw,
+PropertyRights,Freedoms,W4+ln_pwd_g,tstatp,
+PropertyRights,Freedoms,W4+ln_pwd_g,AIC, -12460.99
+PropertyRights,Freedoms,W4+ln_pwd_g,loglike,   6254.67
+PropertyRights,Freedoms,W4+ln_pwd_m,betaw,
+PropertyRights,Freedoms,W4+ln_pwd_m,betap,
+PropertyRights,Freedoms,W4+ln_pwd_m,tstatw,
+PropertyRights,Freedoms,W4+ln_pwd_m,tstatp,
+PropertyRights,Freedoms,W4+ln_pwd_m,AIC, -12454.32
+PropertyRights,Freedoms,W4+ln_pwd_m,loglike,   6251.34
+PropertyRights,Freedoms,W4+wb_urbpop,betaw,
+PropertyRights,Freedoms,W4+wb_urbpop,betap,
+PropertyRights,Freedoms,W4+wb_urbpop,tstatw,
+PropertyRights,Freedoms,W4+wb_urbpop,tstatp,
+PropertyRights,Freedoms,W4+wb_urbpop,AIC, -16778.32
+PropertyRights,Freedoms,W4+wb_urbpop,loglike,   8453.60
+PropertyRights,Freedoms,W4+l_res_norm,betaw,
+PropertyRights,Freedoms,W4+l_res_norm,betap,
+PropertyRights,Freedoms,W4+l_res_norm,tstatw,
+PropertyRights,Freedoms,W4+l_res_norm,tstatp,
+PropertyRights,Freedoms,W4+l_res_norm,AIC, -16910.64
+PropertyRights,Freedoms,W4+l_res_norm,loglike,   8519.79
+PropertyRights,Freedoms,W4+p_res_norm,betaw,
+PropertyRights,Freedoms,W4+p_res_norm,betap,
+PropertyRights,Freedoms,W4+p_res_norm,tstatw,
+PropertyRights,Freedoms,W4+p_res_norm,tstatp,
+PropertyRights,Freedoms,W4+p_res_norm,AIC, -16906.67
+PropertyRights,Freedoms,W4+p_res_norm,loglike,   8517.80
+PropertyRights,Freedoms,W4+r_res_norm,betaw,
+PropertyRights,Freedoms,W4+r_res_norm,betap,
+PropertyRights,Freedoms,W4+r_res_norm,tstatw,
+PropertyRights,Freedoms,W4+r_res_norm,tstatp,
+PropertyRights,Freedoms,W4+r_res_norm,AIC, -16900.18
+PropertyRights,Freedoms,W4+r_res_norm,loglike,   8514.56
+PropertyRights,Freedoms,W4+g_res_norm,betaw,
+PropertyRights,Freedoms,W4+g_res_norm,betap,
+PropertyRights,Freedoms,W4+g_res_norm,tstatw,
+PropertyRights,Freedoms,W4+g_res_norm,tstatp,
+PropertyRights,Freedoms,W4+g_res_norm,AIC, -16909.45
+PropertyRights,Freedoms,W4+g_res_norm,loglike,   8519.19
+MediaCensored,Abuse,W4+ln_pwd_a,betaw,
+MediaCensored,Abuse,W4+ln_pwd_a,betap,
+MediaCensored,Abuse,W4+ln_pwd_a,tstatw,
+MediaCensored,Abuse,W4+ln_pwd_a,tstatp,
+MediaCensored,Abuse,W4+ln_pwd_a,AIC,   3306.17
+MediaCensored,Abuse,W4+ln_pwd_a,loglike,  -1628.91
+MediaCensored,Abuse,W4+ln_pwd_g,betaw,
+MediaCensored,Abuse,W4+ln_pwd_g,betap,
+MediaCensored,Abuse,W4+ln_pwd_g,tstatw,
+MediaCensored,Abuse,W4+ln_pwd_g,tstatp,
+MediaCensored,Abuse,W4+ln_pwd_g,AIC,   3308.32
+MediaCensored,Abuse,W4+ln_pwd_g,loglike,  -1629.98
+MediaCensored,Abuse,W4+ln_pwd_m,betaw,
+MediaCensored,Abuse,W4+ln_pwd_m,betap,
+MediaCensored,Abuse,W4+ln_pwd_m,tstatw,
+MediaCensored,Abuse,W4+ln_pwd_m,tstatp,
+MediaCensored,Abuse,W4+ln_pwd_m,AIC,   3306.69
+MediaCensored,Abuse,W4+ln_pwd_m,loglike,  -1629.17
+MediaCensored,Abuse,W4+wb_urbpop,betaw,
+MediaCensored,Abuse,W4+wb_urbpop,betap,
+MediaCensored,Abuse,W4+wb_urbpop,tstatw,
+MediaCensored,Abuse,W4+wb_urbpop,tstatp,
+MediaCensored,Abuse,W4+wb_urbpop,AIC,  16821.31
+MediaCensored,Abuse,W4+wb_urbpop,loglike,  -8346.21
+MediaCensored,Abuse,W4+l_res_norm,betaw,
+MediaCensored,Abuse,W4+l_res_norm,betap,
+MediaCensored,Abuse,W4+l_res_norm,tstatw,
+MediaCensored,Abuse,W4+l_res_norm,tstatp,
+MediaCensored,Abuse,W4+l_res_norm,AIC,  15700.39
+MediaCensored,Abuse,W4+l_res_norm,loglike,  -7785.73
+MediaCensored,Abuse,W4+p_res_norm,betaw,
+MediaCensored,Abuse,W4+p_res_norm,betap,
+MediaCensored,Abuse,W4+p_res_norm,tstatw,
+MediaCensored,Abuse,W4+p_res_norm,tstatp,
+MediaCensored,Abuse,W4+p_res_norm,AIC,  15768.84
+MediaCensored,Abuse,W4+p_res_norm,loglike,  -7819.95
+MediaCensored,Abuse,W4+r_res_norm,betaw,
+MediaCensored,Abuse,W4+r_res_norm,betap,
+MediaCensored,Abuse,W4+r_res_norm,tstatw,
+MediaCensored,Abuse,W4+r_res_norm,tstatp,
+MediaCensored,Abuse,W4+r_res_norm,AIC,  15758.02
+MediaCensored,Abuse,W4+r_res_norm,loglike,  -7814.54
+MediaCensored,Abuse,W4+g_res_norm,betaw,
+MediaCensored,Abuse,W4+g_res_norm,betap,
+MediaCensored,Abuse,W4+g_res_norm,tstatw,
+MediaCensored,Abuse,W4+g_res_norm,tstatp,
+MediaCensored,Abuse,W4+g_res_norm,AIC,  15765.34
+MediaCensored,Abuse,W4+g_res_norm,loglike,  -7818.20
+PackCourts,Abuse,W4+ln_pwd_a,betaw,
+PackCourts,Abuse,W4+ln_pwd_a,betap,
+PackCourts,Abuse,W4+ln_pwd_a,tstatw,
+PackCourts,Abuse,W4+ln_pwd_a,tstatp,
+PackCourts,Abuse,W4+ln_pwd_a,AIC,   3034.74
+PackCourts,Abuse,W4+ln_pwd_a,loglike,  -1493.19
+PackCourts,Abuse,W4+ln_pwd_g,betaw,
+PackCourts,Abuse,W4+ln_pwd_g,betap,
+PackCourts,Abuse,W4+ln_pwd_g,tstatw,
+PackCourts,Abuse,W4+ln_pwd_g,tstatp,
+PackCourts,Abuse,W4+ln_pwd_g,AIC,   3027.51
+PackCourts,Abuse,W4+ln_pwd_g,loglike,  -1489.58
+PackCourts,Abuse,W4+ln_pwd_m,betaw,
+PackCourts,Abuse,W4+ln_pwd_m,betap,
+PackCourts,Abuse,W4+ln_pwd_m,tstatw,
+PackCourts,Abuse,W4+ln_pwd_m,tstatp,
+PackCourts,Abuse,W4+ln_pwd_m,AIC,   3019.68
+PackCourts,Abuse,W4+ln_pwd_m,loglike,  -1485.66
+PackCourts,Abuse,W4+wb_urbpop,betaw,
+PackCourts,Abuse,W4+wb_urbpop,betap,
+PackCourts,Abuse,W4+wb_urbpop,tstatw,
+PackCourts,Abuse,W4+wb_urbpop,tstatp,
+PackCourts,Abuse,W4+wb_urbpop,AIC,  16970.77
+PackCourts,Abuse,W4+wb_urbpop,loglike,  -8420.94
+PackCourts,Abuse,W4+l_res_norm,betaw,
+PackCourts,Abuse,W4+l_res_norm,betap,
+PackCourts,Abuse,W4+l_res_norm,tstatw,
+PackCourts,Abuse,W4+l_res_norm,tstatp,
+PackCourts,Abuse,W4+l_res_norm,AIC,  16109.70
+PackCourts,Abuse,W4+l_res_norm,loglike,  -7990.38
+PackCourts,Abuse,W4+p_res_norm,betaw,
+PackCourts,Abuse,W4+p_res_norm,betap,
+PackCourts,Abuse,W4+p_res_norm,tstatw,
+PackCourts,Abuse,W4+p_res_norm,tstatp,
+PackCourts,Abuse,W4+p_res_norm,AIC,  16084.22
+PackCourts,Abuse,W4+p_res_norm,loglike,  -7977.64
+PackCourts,Abuse,W4+r_res_norm,betaw,
+PackCourts,Abuse,W4+r_res_norm,betap,
+PackCourts,Abuse,W4+r_res_norm,tstatw,
+PackCourts,Abuse,W4+r_res_norm,tstatp,
+PackCourts,Abuse,W4+r_res_norm,AIC,  16015.56
